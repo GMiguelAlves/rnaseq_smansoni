@@ -131,14 +131,20 @@ run_complete_gene_analysis <- function(tpm_file, gene, config) {
     
     # Gerar TODOS os gráficos
     plot_files <- list(
-      boxplot = plot_boxplot(gene_data, gene, file.path(out_dir, "boxplot.png")),
-      barplot = plot_barplot(results$stats, gene, file.path(out_dir, "barplot.png")),
-      lineplot = plot_lineplot(gene_data, gene, file.path(out_dir, "lineplot.png")),
-      violin = plot_violin(gene_data, gene, file.path(out_dir, "violin.png")),
-      boxplot_sex = plot_box_sex(gene_data, gene, file.path(out_dir, "boxplot_sex.png")),
-      heatmap_sample = plot_heatmap_sample(gene_data, gene, file.path(out_dir, "heatmap_sample.png")),
-      heatmap_stage = plot_heatmap_stage_mean(gene_data, gene, file.path(out_dir, "heatmap_stage_mean.png"))
-    )
+    boxplot = plot_boxplot(gene_data, gene, file.path(out_dir, "boxplot.png")),
+    barplot = plot_barplot(results$stats, gene, file.path(out_dir, "barplot.png")),
+    lineplot = plot_lineplot(gene_data, gene, file.path(out_dir, "lineplot.png")),
+    
+    violin_log2 = plot_violin_log2(gene_data, gene, file.path(out_dir, "violin_log2.png")),
+    violin_raw = plot_violin_raw(gene_data, gene, file.path(out_dir, "violin_raw.png")),
+    violin_zscore = plot_violin_zscore(gene_data, gene, file.path(out_dir, "violin_zscore.png")),
+    violin_median = plot_violin_median(gene_data, gene, file.path(out_dir, "violin_median.png")),
+    violin_fixed = plot_violin_fixed(gene_data, gene, file.path(out_dir, "violin_fixed.png")),
+    
+    boxplot_sex = plot_box_sex(gene_data, gene, file.path(out_dir, "boxplot_sex.png")),
+    heatmap_sample = plot_heatmap_sample(gene_data, gene, file.path(out_dir, "heatmap_sample.png")),
+    heatmap_stage = plot_heatmap_stage_mean(gene_data, gene, file.path(out_dir, "heatmap_stage_mean.png"))
+  )
     
     logger$info(paste("Gráficos gerados:", length(plot_files)))
     
