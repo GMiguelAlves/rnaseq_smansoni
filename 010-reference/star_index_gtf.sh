@@ -9,19 +9,14 @@
 
 set -euo pipefail
 
-PROJECT_DIR="/home/${USER}@bio.ib.unicamp.br/rnaseq_smansoni"
-REF_DIR="${PROJECT_DIR}/010-reference"
-REF_DATA="${REF_DIR}/data"
-STAR_INDEX_DIR="${REF_DIR}/star_index_gtf"
+source "$(dirname "$0")/../config/pipeline_config.sh"
+activate_conda_env "$RNA_TOOLS_ENV"
 
-FA="${REF_DATA}/schistosoma_mansoni.PRJEA36577.WBPS19.genomic.fa"
-GFF3="${REF_DATA}/schistosoma_mansoni.PRJEA36577.WBPS19.annotations.gff3"
-GTF="${REF_DATA}/schistosoma_mansoni.PRJEA36577.WBPS19.annotations.gff3.gtf"
+	REF_DATA="${DATA_DIR}"
 
-
-source /home/${USER}@bio.ib.unicamp.br/miniconda3/bin/activate
-
-conda activate rna-tools
+FA="${REF_GENOME_FA}"
+GFF3="${REF_GFF3}"
+GTF="${REF_GTF}"
 
 
 mkdir -p "${REF_DIR}/logs" "${STAR_INDEX_DIR}"

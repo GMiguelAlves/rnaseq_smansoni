@@ -9,25 +9,13 @@
 
 set -euo pipefail
 
-########################################
-# Config n path
-########################################
-PROJECT_DIR="/home/${USER}@bio.ib.unicamp.br/rnaseq_smansoni"
-REF_DIR="${PROJECT_DIR}/010-reference"
-
-REF_URL="https://ftp.ebi.ac.uk/pub/databases/wormbase/parasite/releases/WBPS19/species/schistosoma_mansoni/PRJEA36577/schistosoma_mansoni.PRJEA36577.WBPS19.genomic.fa.gz"
-REF_DATA="${REF_DIR}/data"
-REF_FA="${REF_DATA}/schistosoma_mansoni.PRJEA36577.WBPS19.genomic.fa"
-STAR_INDEX_DIR="${REF_DIR}/star_index"
+source "$(dirname "$0")/../config/pipeline_config.sh"
+activate_conda_env "$RNA_TOOLS_ENV"
+REF_URL="$GENOME_URL"
+REF_DATA="$DATA_DIR"
+REF_FA="$REF_GENOME_FA"
 
 mkdir -p "$REF_DATA" "$STAR_INDEX_DIR"
-
-########################################
-# Ativar ambiente Conda
-########################################
-source /home/${USER}@bio.ib.unicamp.br/miniconda3/bin/activate
-
-conda activate rna-tools
 
 if ! command -v STAR &> /dev/null; then
     echo "[ERRO] STAR não encontrado no ambiente Conda!"
