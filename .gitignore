@@ -8,6 +8,7 @@
 *.html
 *.json
 *.tmp
+*.rds
 *.ipynb_checkpoints
 .Rhistory
 .RData
@@ -15,6 +16,7 @@
 run_*
 
 #Dir struture with data 
+/Coexpress
 logs/
 /010-reference/logs/
 /010-reference/data/
@@ -23,3 +25,5 @@ logs/
 /010-reference/star_index_gtf/
 /020-data-download/logs/
 /030-qc-fastq/logs/
+/090-search-gene/results/
+/090-search-gene/inputs
