@@ -23,7 +23,9 @@ logs/
 /010-reference/results/
 /010-reference/star_index/
 /010-reference/star_index_gtf/
+/010-reference/salmon_index/
 /020-data-download/logs/
 /030-qc-fastq/logs/
 /090-search-gene/results/
 /090-search-gene/inputs
+/030-qc-fastq/multiqc_report_*/
