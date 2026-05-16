@@ -1,0 +1,27 @@
+project:
+  id: PRJEB14695
+  organism: Schistosoma mansoni
+  source: ENA
+  accession: PRJEB14695
+
+download:
+  link_file: ena-file-download-read_run-PRJEB14695-fastq_ftp.sh
+  protocol: ftp
+  threads: 8
+  retry: true
+  continue_download: true
+
+library:
+  layout: paired
+  compression: gz
+  read_suffix:
+    r1: "_1.fastq.gz"
+    r2: "_2.fastq.gz"
+
+validation:
+  check_md5: false
+  expected_files: auto
+
+metadata:
+  metadata_file:
+  parser:
