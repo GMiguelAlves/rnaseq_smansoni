@@ -1,0 +1,22 @@
+join:
+  left_key: run_accession
+  right_key: run_accession
+  how: left
+
+lane_columns:
+  id_vars:
+    - Sample Name
+    - Sex
+    - Location
+
+  value_vars:
+    - Lane 1 ENA Run Accession
+    - Lane 2 ENA Run Accession
+
+mappings:
+  sample_id: Sample Name
+  sex: Sex
+  stage: Location
+  lane: lane
+
+drop_unmatched: true

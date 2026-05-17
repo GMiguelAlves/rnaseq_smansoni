@@ -1,0 +1,37 @@
+dataset: PRJEB32839
+
+defaults:
+  dataset: PRJEB32839
+  condition: unknown
+  batch: B1
+
+columns:
+  sample_field: sample_id
+  run_field: run_accession
+
+parsing:
+  sex:
+    source: sample_id
+    regex_map:
+      "^X_": mixed
+      "^F_": female
+      "^M_": male
+
+  replicate:
+    source: sample_id
+    regex_extract: "R(\\d+)"
+
+  stage:
+    source: sample_id
+    regex_map:
+      "Eggs": eggs
+      "Miracidia": miracidium
+      "Cercariae": cercariae
+      "1d_Sporocysts": sporocyst_1d
+      "5d_Sporocysts": sporocyst_5d
+      "32d_Sporocysts": sporocyst_32d
+      "2d_Somules": schistosomula_2d
+      "26d_Juveniles": adult_26d
+
+lanes:
+  enabled: false
