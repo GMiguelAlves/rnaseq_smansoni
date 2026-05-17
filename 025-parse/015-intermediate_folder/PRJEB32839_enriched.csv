@@ -1,0 +1,151 @@
+sample_id,run_accession,study_accession,Sample Name,Sex,Location,lane,sex,stage
+X_5d_Sporocysts_R2,ERR11178270,PRJEB32839,X_5d_Sporocysts_R2,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+X_Cercariae_R5,ERR11178275,PRJEB32839,X_Cercariae_R5,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+X_Eggs_R2,ERR11178276,PRJEB32839,X_Eggs_R2,Mix,Intramammalian,Lane 1 ENA Run Accession,Mix,Intramammalian
+M_2d_Somules_R3,ERR11178277,PRJEB32839,M_2d_Somules_R3,Male,in vitro,Lane 1 ENA Run Accession,Male,in vitro
+M_32d_Sporocysts_R1,ERR11178282,PRJEB32839,M_32d_Sporocysts_R1,Male,Intramolluscan,Lane 1 ENA Run Accession,Male,Intramolluscan
+M_Cercariae_R2,ERR11178284,PRJEB32839,M_Cercariae_R2,Male,"Free-living, water",Lane 1 ENA Run Accession,Male,"Free-living, water"
+X_Eggs_R3,ERR11178286,PRJEB32839,X_Eggs_R3,Mix,Intramammalian,Lane 1 ENA Run Accession,Mix,Intramammalian
+M_2d_Somules_R4,ERR11178287,PRJEB32839,M_2d_Somules_R4,Male,in vitro,Lane 1 ENA Run Accession,Male,in vitro
+X_Eggs_R4,ERR11178295,PRJEB32839,X_Eggs_R4,Mix,Intramammalian,Lane 1 ENA Run Accession,Mix,Intramammalian
+M_Cercariae_R4,ERR11178302,PRJEB32839,M_Cercariae_R4,Male,"Free-living, water",Lane 1 ENA Run Accession,Male,"Free-living, water"
+X_1d_Sporocysts_R3,ERR11178306,PRJEB32839,X_1d_Sporocysts_R3,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_26d_Juveniles_R1,ERR11178307,PRJEB32839,M_26d_Juveniles_R1,Male,Intramammalian,Lane 1 ENA Run Accession,Male,Intramammalian
+F_2d_Somules_R4,ERR11178312,PRJEB32839,F_2d_Somules_R4,Female,in vitro,Lane 1 ENA Run Accession,Female,in vitro
+X_Miracidia_R1,ERR11178313,PRJEB32839,X_Miracidia_R1,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+M_26d_Juveniles_R2,ERR11178316,PRJEB32839,M_26d_Juveniles_R2,Male,Intramammalian,Lane 1 ENA Run Accession,Male,Intramammalian
+F_32d_Sporocysts_R2,ERR11178317,PRJEB32839,F_32d_Sporocysts_R2,Female,Intramolluscan,Lane 1 ENA Run Accession,Female,Intramolluscan
+X_Cercariae_R1,ERR11178320,PRJEB32839,X_Cercariae_R1,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+X_2d_Somules_R3,ERR11178323,PRJEB32839,X_2d_Somules_R3,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+F_32d_Sporocysts_R3,ERR11178325,PRJEB32839,F_32d_Sporocysts_R3,Female,Intramolluscan,Lane 1 ENA Run Accession,Female,Intramolluscan
+X_Cercariae_R2,ERR11178328,PRJEB32839,X_Cercariae_R2,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+F_32d_Sporocysts_R4,ERR11178334,PRJEB32839,F_32d_Sporocysts_R4,Female,Intramolluscan,Lane 1 ENA Run Accession,Female,Intramolluscan
+X_32d_Sporocysts_R5,ERR11178342,PRJEB32839,X_32d_Sporocysts_R5,Mix,Intramolluscan,Lane 1 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R1,ERR11178343,PRJEB32839,F_Cercariae_R1,Female,"Free-living, water",Lane 1 ENA Run Accession,Female,"Free-living, water"
+F_Cercariae_R3,ERR11178349,PRJEB32839,F_Cercariae_R3,Female,"Free-living, water",Lane 1 ENA Run Accession,Female,"Free-living, water"
+X_Eggs_R1,ERR11178356,PRJEB32839,X_Eggs_R1,Mix,Intramammalian,Lane 2 ENA Run Accession,Mix,Intramammalian
+X_Miracidia_R5,ERR11178368,PRJEB32839,X_Miracidia_R5,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+M_32d_Sporocysts_R1,ERR11178372,PRJEB32839,M_32d_Sporocysts_R1,Male,Intramolluscan,Lane 2 ENA Run Accession,Male,Intramolluscan
+F_26d_Juveniles_R4,ERR11178379,PRJEB32839,F_26d_Juveniles_R4,Female,Intramammalian,Lane 2 ENA Run Accession,Female,Intramammalian
+X_2d_Somules_R5,ERR11178381,PRJEB32839,X_2d_Somules_R5,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_Eggs_R4,ERR11178385,PRJEB32839,X_Eggs_R4,Mix,Intramammalian,Lane 2 ENA Run Accession,Mix,Intramammalian
+M_2d_Somules_R5,ERR11178386,PRJEB32839,M_2d_Somules_R5,Male,in vitro,Lane 2 ENA Run Accession,Male,in vitro
+X_1d_Sporocysts_R2,ERR11178387,PRJEB32839,X_1d_Sporocysts_R2,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+F_26d_Juveniles_R5,ERR11178388,PRJEB32839,F_26d_Juveniles_R5,Female,Intramammalian,Lane 2 ENA Run Accession,Female,Intramammalian
+X_Eggs_R5,ERR11178394,PRJEB32839,X_Eggs_R5,Mix,Intramammalian,Lane 2 ENA Run Accession,Mix,Intramammalian
+X_2d_Somules_R1,ERR11178395,PRJEB32839,X_2d_Somules_R1,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_1d_Sporocysts_R3,ERR11178396,PRJEB32839,X_1d_Sporocysts_R3,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R4,ERR11178400,PRJEB32839,M_32d_Sporocysts_R4,Male,Intramolluscan,Lane 2 ENA Run Accession,Male,Intramolluscan
+F_2d_Somules_R4,ERR11178402,PRJEB32839,F_2d_Somules_R4,Female,in vitro,Lane 2 ENA Run Accession,Female,in vitro
+X_Miracidia_R1,ERR11178403,PRJEB32839,X_Miracidia_R1,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+M_26d_Juveniles_R2,ERR11178406,PRJEB32839,M_26d_Juveniles_R2,Male,Intramammalian,Lane 2 ENA Run Accession,Male,Intramammalian
+F_32d_Sporocysts_R2,ERR11178407,PRJEB32839,F_32d_Sporocysts_R2,Female,Intramolluscan,Lane 2 ENA Run Accession,Female,Intramolluscan
+F_32d_Sporocysts_R3,ERR11178415,PRJEB32839,F_32d_Sporocysts_R3,Female,Intramolluscan,Lane 2 ENA Run Accession,Female,Intramolluscan
+X_32d_Sporocysts_R3,ERR11178431,PRJEB32839,X_32d_Sporocysts_R3,Mix,Intramolluscan,Lane 2 ENA Run Accession,Mix,Intramolluscan
+X_32d_Sporocysts_R4,ERR11178435,PRJEB32839,X_32d_Sporocysts_R4,Mix,Intramolluscan,Lane 2 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R2,ERR11178437,PRJEB32839,F_Cercariae_R2,Female,"Free-living, water",Lane 2 ENA Run Accession,Female,"Free-living, water"
+X_1d_Sporocysts_R5,ERR11178264,PRJEB32839,X_1d_Sporocysts_R5,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+X_Eggs_R1,ERR11178266,PRJEB32839,X_Eggs_R1,Mix,Intramammalian,Lane 1 ENA Run Accession,Mix,Intramammalian
+M_2d_Somules_R2,ERR11178267,PRJEB32839,M_2d_Somules_R2,Male,in vitro,Lane 1 ENA Run Accession,Male,in vitro
+M_26d_Juveniles_R5,ERR11178271,PRJEB32839,M_26d_Juveniles_R5,Male,Intramammalian,Lane 1 ENA Run Accession,Male,Intramammalian
+F_32d_Sporocysts_R5,ERR11178272,PRJEB32839,F_32d_Sporocysts_R5,Female,Intramolluscan,Lane 1 ENA Run Accession,Female,Intramolluscan
+X_Miracidia_R5,ERR11178278,PRJEB32839,X_Miracidia_R5,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+F_26d_Juveniles_R3,ERR11178279,PRJEB32839,F_26d_Juveniles_R3,Female,Intramammalian,Lane 1 ENA Run Accession,Female,Intramammalian
+X_5d_Sporocysts_R3,ERR11178280,PRJEB32839,X_5d_Sporocysts_R3,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+X_2d_Somules_R4,ERR11178281,PRJEB32839,X_2d_Somules_R4,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+F_2d_Somules_R1,ERR11178285,PRJEB32839,F_2d_Somules_R1,Female,in vitro,Lane 1 ENA Run Accession,Female,in vitro
+X_1d_Sporocysts_R1,ERR11178288,PRJEB32839,X_1d_Sporocysts_R1,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+F_26d_Juveniles_R4,ERR11178289,PRJEB32839,F_26d_Juveniles_R4,Female,Intramammalian,Lane 1 ENA Run Accession,Female,Intramammalian
+X_5d_Sporocysts_R4,ERR11178290,PRJEB32839,X_5d_Sporocysts_R4,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_Cercariae_R3,ERR11178293,PRJEB32839,M_Cercariae_R3,Male,"Free-living, water",Lane 1 ENA Run Accession,Male,"Free-living, water"
+F_2d_Somules_R2,ERR11178294,PRJEB32839,F_2d_Somules_R2,Female,in vitro,Lane 1 ENA Run Accession,Female,in vitro
+M_2d_Somules_R5,ERR11178296,PRJEB32839,M_2d_Somules_R5,Male,in vitro,Lane 1 ENA Run Accession,Male,in vitro
+X_5d_Sporocysts_R5,ERR11178299,PRJEB32839,X_5d_Sporocysts_R5,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R3,ERR11178301,PRJEB32839,M_32d_Sporocysts_R3,Male,Intramolluscan,Lane 1 ENA Run Accession,Male,Intramolluscan
+F_2d_Somules_R3,ERR11178303,PRJEB32839,F_2d_Somules_R3,Female,in vitro,Lane 1 ENA Run Accession,Female,in vitro
+X_2d_Somules_R1,ERR11178305,PRJEB32839,X_2d_Somules_R1,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R4,ERR11178310,PRJEB32839,M_32d_Sporocysts_R4,Male,Intramolluscan,Lane 1 ENA Run Accession,Male,Intramolluscan
+X_1d_Sporocysts_R4,ERR11178315,PRJEB32839,X_1d_Sporocysts_R4,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_26d_Juveniles_R3,ERR11178324,PRJEB32839,M_26d_Juveniles_R3,Male,Intramammalian,Lane 1 ENA Run Accession,Male,Intramammalian
+X_5d_Sporocysts_R1,ERR11178332,PRJEB32839,X_5d_Sporocysts_R1,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_26d_Juveniles_R4,ERR11178333,PRJEB32839,M_26d_Juveniles_R4,Male,Intramammalian,Lane 1 ENA Run Accession,Male,Intramammalian
+X_32d_Sporocysts_R4,ERR11178345,PRJEB32839,X_32d_Sporocysts_R4,Mix,Intramolluscan,Lane 1 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R5,ERR11178353,PRJEB32839,F_Cercariae_R5,Female,"Free-living, water",Lane 1 ENA Run Accession,Female,"Free-living, water"
+X_1d_Sporocysts_R5,ERR11178354,PRJEB32839,X_1d_Sporocysts_R5,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_Cercariae_R4,ERR11178355,PRJEB32839,X_Cercariae_R4,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+X_5d_Sporocysts_R2,ERR11178360,PRJEB32839,X_5d_Sporocysts_R2,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_26d_Juveniles_R5,ERR11178361,PRJEB32839,M_26d_Juveniles_R5,Male,Intramammalian,Lane 2 ENA Run Accession,Male,Intramammalian
+F_32d_Sporocysts_R5,ERR11178362,PRJEB32839,F_32d_Sporocysts_R5,Female,Intramolluscan,Lane 2 ENA Run Accession,Female,Intramolluscan
+X_Cercariae_R5,ERR11178365,PRJEB32839,X_Cercariae_R5,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+X_Eggs_R2,ERR11178366,PRJEB32839,X_Eggs_R2,Mix,Intramammalian,Lane 2 ENA Run Accession,Mix,Intramammalian
+M_2d_Somules_R3,ERR11178367,PRJEB32839,M_2d_Somules_R3,Male,in vitro,Lane 2 ENA Run Accession,Male,in vitro
+F_26d_Juveniles_R3,ERR11178369,PRJEB32839,F_26d_Juveniles_R3,Female,Intramammalian,Lane 2 ENA Run Accession,Female,Intramammalian
+X_5d_Sporocysts_R3,ERR11178370,PRJEB32839,X_5d_Sporocysts_R3,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_2d_Somules_R4,ERR11178371,PRJEB32839,X_2d_Somules_R4,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_Cercariae_R2,ERR11178374,PRJEB32839,M_Cercariae_R2,Male,"Free-living, water",Lane 2 ENA Run Accession,Male,"Free-living, water"
+X_Eggs_R3,ERR11178376,PRJEB32839,X_Eggs_R3,Mix,Intramammalian,Lane 2 ENA Run Accession,Mix,Intramammalian
+X_1d_Sporocysts_R1,ERR11178378,PRJEB32839,X_1d_Sporocysts_R1,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R2,ERR11178382,PRJEB32839,M_32d_Sporocysts_R2,Male,Intramolluscan,Lane 2 ENA Run Accession,Male,Intramolluscan
+F_2d_Somules_R2,ERR11178384,PRJEB32839,F_2d_Somules_R2,Female,in vitro,Lane 2 ENA Run Accession,Female,in vitro
+X_5d_Sporocysts_R5,ERR11178389,PRJEB32839,X_5d_Sporocysts_R5,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_1d_Sporocysts_R4,ERR11178405,PRJEB32839,X_1d_Sporocysts_R4,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R5,ERR11178409,PRJEB32839,M_32d_Sporocysts_R5,Male,Intramolluscan,Lane 2 ENA Run Accession,Male,Intramolluscan
+X_Cercariae_R1,ERR11178410,PRJEB32839,X_Cercariae_R1,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+X_2d_Somules_R3,ERR11178413,PRJEB32839,X_2d_Somules_R3,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+X_32d_Sporocysts_R1,ERR11178417,PRJEB32839,X_32d_Sporocysts_R1,Mix,Intramolluscan,Lane 2 ENA Run Accession,Mix,Intramolluscan
+X_Cercariae_R2,ERR11178418,PRJEB32839,X_Cercariae_R2,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+X_5d_Sporocysts_R1,ERR11178422,PRJEB32839,X_5d_Sporocysts_R1,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+F_32d_Sporocysts_R4,ERR11178424,PRJEB32839,F_32d_Sporocysts_R4,Female,Intramolluscan,Lane 2 ENA Run Accession,Female,Intramolluscan
+X_Cercariae_R3,ERR11178427,PRJEB32839,X_Cercariae_R3,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+X_32d_Sporocysts_R5,ERR11178432,PRJEB32839,X_32d_Sporocysts_R5,Mix,Intramolluscan,Lane 2 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R1,ERR11178433,PRJEB32839,F_Cercariae_R1,Female,"Free-living, water",Lane 2 ENA Run Accession,Female,"Free-living, water"
+F_Cercariae_R3,ERR11178439,PRJEB32839,F_Cercariae_R3,Female,"Free-living, water",Lane 2 ENA Run Accession,Female,"Free-living, water"
+F_Cercariae_R4,ERR11178441,PRJEB32839,F_Cercariae_R4,Female,"Free-living, water",Lane 2 ENA Run Accession,Female,"Free-living, water"
+X_Cercariae_R4,ERR11178265,PRJEB32839,X_Cercariae_R4,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+X_Miracidia_R4,ERR11178268,PRJEB32839,X_Miracidia_R4,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+F_26d_Juveniles_R2,ERR11178269,PRJEB32839,F_26d_Juveniles_R2,Female,Intramammalian,Lane 1 ENA Run Accession,Female,Intramammalian
+M_Cercariae_R1,ERR11178274,PRJEB32839,M_Cercariae_R1,Male,"Free-living, water",Lane 1 ENA Run Accession,Male,"Free-living, water"
+X_2d_Somules_R5,ERR11178291,PRJEB32839,X_2d_Somules_R5,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R2,ERR11178292,PRJEB32839,M_32d_Sporocysts_R2,Male,Intramolluscan,Lane 1 ENA Run Accession,Male,Intramolluscan
+X_1d_Sporocysts_R2,ERR11178297,PRJEB32839,X_1d_Sporocysts_R2,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+F_26d_Juveniles_R5,ERR11178298,PRJEB32839,F_26d_Juveniles_R5,Female,Intramammalian,Lane 1 ENA Run Accession,Female,Intramammalian
+X_Eggs_R5,ERR11178304,PRJEB32839,X_Eggs_R5,Mix,Intramammalian,Lane 1 ENA Run Accession,Mix,Intramammalian
+F_32d_Sporocysts_R1,ERR11178308,PRJEB32839,F_32d_Sporocysts_R1,Female,Intramolluscan,Lane 1 ENA Run Accession,Female,Intramolluscan
+M_Cercariae_R5,ERR11178311,PRJEB32839,M_Cercariae_R5,Male,"Free-living, water",Lane 1 ENA Run Accession,Male,"Free-living, water"
+X_2d_Somules_R2,ERR11178314,PRJEB32839,X_2d_Somules_R2,Mix,in vitro,Lane 1 ENA Run Accession,Mix,in vitro
+M_32d_Sporocysts_R5,ERR11178319,PRJEB32839,M_32d_Sporocysts_R5,Male,Intramolluscan,Lane 1 ENA Run Accession,Male,Intramolluscan
+F_2d_Somules_R5,ERR11178321,PRJEB32839,F_2d_Somules_R5,Female,in vitro,Lane 1 ENA Run Accession,Female,in vitro
+X_Miracidia_R2,ERR11178322,PRJEB32839,X_Miracidia_R2,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+X_32d_Sporocysts_R1,ERR11178327,PRJEB32839,X_32d_Sporocysts_R1,Mix,Intramolluscan,Lane 1 ENA Run Accession,Mix,Intramolluscan
+M_2d_Somules_R1,ERR11178329,PRJEB32839,M_2d_Somules_R1,Male,in vitro,Lane 1 ENA Run Accession,Male,in vitro
+X_Miracidia_R3,ERR11178330,PRJEB32839,X_Miracidia_R3,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+F_26d_Juveniles_R1,ERR11178331,PRJEB32839,F_26d_Juveniles_R1,Female,Intramammalian,Lane 1 ENA Run Accession,Female,Intramammalian
+X_32d_Sporocysts_R2,ERR11178336,PRJEB32839,X_32d_Sporocysts_R2,Mix,Intramolluscan,Lane 1 ENA Run Accession,Mix,Intramolluscan
+X_Cercariae_R3,ERR11178337,PRJEB32839,X_Cercariae_R3,Mix,"Free-living, water",Lane 1 ENA Run Accession,Mix,"Free-living, water"
+X_32d_Sporocysts_R3,ERR11178341,PRJEB32839,X_32d_Sporocysts_R3,Mix,Intramolluscan,Lane 1 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R2,ERR11178347,PRJEB32839,F_Cercariae_R2,Female,"Free-living, water",Lane 1 ENA Run Accession,Female,"Free-living, water"
+F_Cercariae_R4,ERR11178351,PRJEB32839,F_Cercariae_R4,Female,"Free-living, water",Lane 1 ENA Run Accession,Female,"Free-living, water"
+M_2d_Somules_R2,ERR11178357,PRJEB32839,M_2d_Somules_R2,Male,in vitro,Lane 2 ENA Run Accession,Male,in vitro
+X_Miracidia_R4,ERR11178358,PRJEB32839,X_Miracidia_R4,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+F_26d_Juveniles_R2,ERR11178359,PRJEB32839,F_26d_Juveniles_R2,Female,Intramammalian,Lane 2 ENA Run Accession,Female,Intramammalian
+M_Cercariae_R1,ERR11178364,PRJEB32839,M_Cercariae_R1,Male,"Free-living, water",Lane 2 ENA Run Accession,Male,"Free-living, water"
+F_2d_Somules_R1,ERR11178375,PRJEB32839,F_2d_Somules_R1,Female,in vitro,Lane 2 ENA Run Accession,Female,in vitro
+M_2d_Somules_R4,ERR11178377,PRJEB32839,M_2d_Somules_R4,Male,in vitro,Lane 2 ENA Run Accession,Male,in vitro
+X_5d_Sporocysts_R4,ERR11178380,PRJEB32839,X_5d_Sporocysts_R4,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+M_Cercariae_R3,ERR11178383,PRJEB32839,M_Cercariae_R3,Male,"Free-living, water",Lane 2 ENA Run Accession,Male,"Free-living, water"
+M_32d_Sporocysts_R3,ERR11178391,PRJEB32839,M_32d_Sporocysts_R3,Male,Intramolluscan,Lane 2 ENA Run Accession,Male,Intramolluscan
+M_Cercariae_R4,ERR11178392,PRJEB32839,M_Cercariae_R4,Male,"Free-living, water",Lane 2 ENA Run Accession,Male,"Free-living, water"
+F_2d_Somules_R3,ERR11178393,PRJEB32839,F_2d_Somules_R3,Female,in vitro,Lane 2 ENA Run Accession,Female,in vitro
+M_26d_Juveniles_R1,ERR11178397,PRJEB32839,M_26d_Juveniles_R1,Male,Intramammalian,Lane 2 ENA Run Accession,Male,Intramammalian
+F_32d_Sporocysts_R1,ERR11178398,PRJEB32839,F_32d_Sporocysts_R1,Female,Intramolluscan,Lane 2 ENA Run Accession,Female,Intramolluscan
+M_Cercariae_R5,ERR11178401,PRJEB32839,M_Cercariae_R5,Male,"Free-living, water",Lane 2 ENA Run Accession,Male,"Free-living, water"
+X_2d_Somules_R2,ERR11178404,PRJEB32839,X_2d_Somules_R2,Mix,in vitro,Lane 2 ENA Run Accession,Mix,in vitro
+F_2d_Somules_R5,ERR11178411,PRJEB32839,F_2d_Somules_R5,Female,in vitro,Lane 2 ENA Run Accession,Female,in vitro
+X_Miracidia_R2,ERR11178412,PRJEB32839,X_Miracidia_R2,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+M_26d_Juveniles_R3,ERR11178414,PRJEB32839,M_26d_Juveniles_R3,Male,Intramammalian,Lane 2 ENA Run Accession,Male,Intramammalian
+M_2d_Somules_R1,ERR11178419,PRJEB32839,M_2d_Somules_R1,Male,in vitro,Lane 2 ENA Run Accession,Male,in vitro
+X_Miracidia_R3,ERR11178420,PRJEB32839,X_Miracidia_R3,Mix,"Free-living, water",Lane 2 ENA Run Accession,Mix,"Free-living, water"
+F_26d_Juveniles_R1,ERR11178421,PRJEB32839,F_26d_Juveniles_R1,Female,Intramammalian,Lane 2 ENA Run Accession,Female,Intramammalian
+M_26d_Juveniles_R4,ERR11178423,PRJEB32839,M_26d_Juveniles_R4,Male,Intramammalian,Lane 2 ENA Run Accession,Male,Intramammalian
+X_32d_Sporocysts_R2,ERR11178426,PRJEB32839,X_32d_Sporocysts_R2,Mix,Intramolluscan,Lane 2 ENA Run Accession,Mix,Intramolluscan
+F_Cercariae_R5,ERR11178443,PRJEB32839,F_Cercariae_R5,Female,"Free-living, water",Lane 2 ENA Run Accession,Female,"Free-living, water"
