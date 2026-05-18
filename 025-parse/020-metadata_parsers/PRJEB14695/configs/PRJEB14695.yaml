@@ -4,7 +4,7 @@ defaults:
   dataset: PRJEB14695
   batch: B2
   condition: unknown
-  lane: single
+  lane:
 
 sample_id_template: true
 
