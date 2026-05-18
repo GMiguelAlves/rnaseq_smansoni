@@ -1,0 +1,45 @@
+dataset: PRJEB14695
+
+defaults:
+  dataset: PRJEB14695
+  batch: B2
+  condition: unknown
+  lane:
+
+sample_id_template: true
+
+columns:
+  sample_field: sample_id
+  run_field: run_accession
+
+parsing:
+
+  stage:
+    source: sample_id
+    regex_map:
+      ovaries: adult
+      testes: adult
+      testis: adult
+      whole: adult
+
+  sex:
+    source: sample_id
+    regex_map:
+      ovaries: female
+      female: female
+      testes: male
+      testis: male
+      male: male
+      mixed_sex: mixed
+      mixed: mixed
+
+  condition:
+    source: sample_id
+    regex_map:
+      single_sex_infection: single_sex
+      mixed_sex_infection: mixed_sex
+      mixed_infection: mixed_sex
+
+  replicate:
+    source: sample_id
+    regex_extract: "R(\\d+)"
