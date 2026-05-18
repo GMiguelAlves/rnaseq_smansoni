@@ -29,7 +29,7 @@ ENRICH_CONFIG="${PROJ}/configs/${PROJ}_enrich.yaml"
 
 AUTHOR_METADATA="${PROJ}/author_metadata.tsv"
 
-OUTPUT_FILE="${PROJ}/${PROJ}_parsed.csv"
+OUTPUT_FILE="Allprojects/${PROJ}_parsed.csv"
 
 mkdir -p "$(dirname "$OUTPUT_FILE")"
 
