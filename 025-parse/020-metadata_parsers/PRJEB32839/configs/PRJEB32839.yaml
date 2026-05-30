@@ -9,6 +9,11 @@ columns:
   sample_field: sample_id
   run_field: run_accession
 
+preserve_columns:
+  Sample Name: raw_sample_id
+  Location: biological_location
+  study_accession: study_accession
+
 parsing:
   sex:
     source: sample_id
@@ -33,5 +38,59 @@ parsing:
       "2d_Somules": schistosomula_2d
       "26d_Juveniles": adult_26d
 
+  tissue:
+    source: sample_id
+    regex_map:
+      "Eggs": whole_organism
+      "Miracidia": whole_organism
+      "Cercariae": whole_organism
+      "Sporocysts": whole_organism
+      "Somules": whole_organism
+      "Juveniles": whole_organism
+
+  lane:
+    source: lane
+    regex_map:
+      "Lane 1": L1
+      "Lane 2": L2
+
 lanes:
   enabled: false
+
+sample_id_components:
+  - SM
+  - field: stage
+    aliases:
+      eggs: EGGS
+      miracidium: MIRA
+      cercariae: CERC
+      sporocyst_1d: SP01
+      sporocyst_5d: SP05
+      sporocyst_32d: SP32
+      schistosomula_2d: SCH2
+      adult_26d: AD26
+  - field: sex
+    width: 3
+  - field: condition
+    width: 4
+  - field: replicate
+    replicate: true
+  - field: batch
+
+final_columns:
+  - sample_id
+  - file_prefix
+  - raw_sample_id
+  - stage
+  - tissue
+  - sex
+  - condition
+  - infection_mode
+  - biological_location
+  - replicate
+  - source_sample_id
+  - batch
+  - dataset
+  - lane
+  - run_accession
+  - study_accession
