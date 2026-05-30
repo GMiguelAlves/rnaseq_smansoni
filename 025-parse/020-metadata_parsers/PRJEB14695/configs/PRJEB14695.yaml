@@ -4,6 +4,7 @@ defaults:
   dataset: PRJEB14695
   batch: B2
   condition: unknown
+  stage: adult
   lane:
 
 sample_id_template: true
@@ -12,15 +13,19 @@ columns:
   sample_field: sample_id
   run_field: run_accession
 
+preserve_columns:
+  sample_id: raw_sample_id
+  study_accession: study_accession
+
 parsing:
 
-  stage:
+  tissue:
     source: sample_id
     regex_map:
-      ovaries: adult
-      testes: adult
-      testis: adult
-      whole: adult
+      ovaries: ovary
+      testes: testis
+      testis: testis
+      whole: whole_body
 
   sex:
     source: sample_id
@@ -40,6 +45,54 @@ parsing:
       mixed_sex_infection: mixed_sex
       mixed_infection: mixed_sex
 
+  infection_mode:
+    source: sample_id
+    regex_map:
+      single_sex_infection: single_sex
+      mixed_sex_infection: mixed_sex
+      mixed_infection: mixed_sex
+
+  source_sample_id:
+    source: sample_id
+    regex_extract: "sc-(\\d+)"
+
   replicate:
     source: sample_id
-    regex_extract: "R(\\d+)"
+    regex_extract: "sc-(\\d+)"
+
+sample_id_components:
+  - SM
+  - field: stage
+    width: 4
+  - field: tissue
+    aliases:
+      ovary: OVAR
+      testis: TEST
+      whole_body: WHOL
+  - field: sex
+    width: 3
+  - field: condition
+    aliases:
+      mixed_sex: MIXS
+      single_sex: SING
+  - field: source_sample_id
+    prefix: SC
+  - field: batch
+
+final_columns:
+  - sample_id
+  - file_prefix
+  - raw_sample_id
+  - stage
+  - tissue
+  - sex
+  - condition
+  - infection_mode
+  - biological_location
+  - replicate
+  - source_sample_id
+  - batch
+  - dataset
+  - lane
+  - run_accession
+  - study_accession

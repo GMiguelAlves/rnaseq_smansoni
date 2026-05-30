@@ -191,3 +191,76 @@ Estrutura de diretórios
 
 Dependências
 metaQc v0.2 ou superior
+
+Modelo biologico recomendado
+----------------------------
+
+O parser aceita campos configuraveis por projeto. Para estudos novos, evite
+colapsar informacoes biologicas distintas dentro de `stage`.
+
+Use dimensoes separadas sempre que possivel:
+
+```text
+stage              fase ampla do ciclo de vida, ex.: adult
+tissue             tecido/parte do corpo, ex.: ovary, testis, whole_body
+sex                male, female, mixed, unknown
+condition          grupo experimental harmonizado
+infection_mode     single_sex, mixed_sex, unknown
+source_sample_id   identificador biologico do estudo original
+raw_sample_id      nome bruto vindo do ENA/SRA/autor
+run_accession      identificador tecnico usado nos FASTQs baixados
+file_prefix        prefixo seguro para renomear arquivos
+```
+
+Cada config pode declarar colunas preservadas, componentes do `sample_id` e
+ordem final de colunas:
+
+```yaml
+preserve_columns:
+  sample_id: raw_sample_id
+  study_accession: study_accession
+
+sample_id_components:
+  - SM
+  - field: stage
+    width: 4
+  - field: tissue
+  - field: sex
+    width: 3
+  - field: condition
+  - field: source_sample_id
+    prefix: SC
+  - field: batch
+
+final_columns:
+  - sample_id
+  - file_prefix
+  - raw_sample_id
+  - stage
+  - tissue
+  - sex
+  - condition
+  - infection_mode
+  - source_sample_id
+  - run_accession
+```
+
+O `sample_id` deve representar a amostra biologica. Para arquivos FASTQ, use
+`run_accession` junto com `file_prefix`, por exemplo:
+
+```text
+ERR506074_1.fastq.gz -> SM_ADUL_OVAR_FEM_MIXS_SC1878518_B2_ERR506074_R1.fastq.gz
+```
+
+Para adicionar um projeto novo, copie
+`020-metadata_parsers/TEMPLATE_project.yaml` e ajuste apenas:
+
+- `dataset`
+- `defaults.batch`
+- `columns.sample_field` e `columns.run_field`
+- regras em `parsing`
+- aliases em `sample_id_components`
+
+Mesmo que o projeto nao tenha todas as dimensoes biologicas, mantenha o schema
+expandido. Campos desconhecidos devem ficar vazios ou `unknown`, nao embutidos
+em outro campo.
