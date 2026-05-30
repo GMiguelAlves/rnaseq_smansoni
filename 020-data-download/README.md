@@ -133,6 +133,25 @@ Exemplo:
 └── ...
 ```
 
+## Manifesto de renomeacao
+
+Depois que `025-parse/030-metadata_final/AllProjects_metadata.csv` for gerado,
+crie um manifesto run-level antes de renomear FASTQs:
+
+```bash
+python generate_rename_manifest.py \
+  --metadata ../025-parse/030-metadata_final/AllProjects_metadata.csv \
+  --project PRJEB14695 \
+  --output PRJEB14695_rename_manifest.csv
+```
+
+O manifesto preserva o `run_accession` no nome novo, evitando colisoes quando
+uma mesma amostra biologica possui varios runs tecnicos:
+
+```text
+ERR506074_1.fastq.gz -> SM_ADUL_OVAR_FEM_MIXS_SC1878518_B2_ERR506074_R1.fastq.gz
+```
+
 Logs:
 
 ```bash
@@ -181,4 +200,3 @@ Verificar especialmente:
 - `OUTPUT`
 
 ---
-
