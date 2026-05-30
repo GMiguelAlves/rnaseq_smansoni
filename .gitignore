@@ -1,6 +1,5 @@
 
 # Ignore big data
-*.csv
 *.tsv
 *.fastq.gz
 *.fq.gz
@@ -15,7 +14,6 @@
 .Rhistory
 .RData
 .DS_Store
-run_*
 
 #Dir struture with data 
 /Coexpress
