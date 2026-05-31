@@ -1,3 +1,5 @@
+
+
 ---
 
 ## Fluxo orientado por `qc_plan.csv`
@@ -21,10 +23,10 @@ FASTQs renomeados
 ### 1. Gerar o plano
 
 ```bash
-cd /home/${USER}@bio.ib.unicamp.br/rnaseq_smansoni/030-qc-fastq
+cd 
 
 python generate_qc_plan.py \
-  --metadata ../025-parse/030-metadata_final/AllProjects_metadata_new.csv \
+  --metadata ../025-parse/030-metadata_final/AllProjects_metadata.csv \
   --project PRJEB14695 \
   --scratch-root /scratch \
   --output work/PRJEB14695_qc_plan.csv
@@ -125,7 +127,7 @@ Os ambientes e caminhos padrao vêm de `../config/pipeline_config.sh`:
 SCRATCH_ROOT=/scratch
 RNA_TOOLS_ENV=rna-tools
 PYTHON_ENV=python-list
-METADATA_FINAL_NEW=../025-parse/030-metadata_final/AllProjects_metadata_new.csv
+METADATA_FINAL_NEW=../025-parse/030-metadata_final/AllProjects_metadata.csv
 ```
 
 Os scripts `*_plan.sh` carregam essa config automaticamente. Scripts de
@@ -142,10 +144,11 @@ Opcoes uteis:
 
 ```bash
 bash run_qc_project.sh PRJEB32839 \
-  --metadata ../025-parse/030-metadata_final/AllProjects_metadata_new.csv \
+  --metadata ../025-parse/030-metadata_final/AllProjects_metadata.csv \
   --scratch-root /scratch \
   --run-concurrency 10 \
   --sample-concurrency 10
 ```
 
+---
 ---
