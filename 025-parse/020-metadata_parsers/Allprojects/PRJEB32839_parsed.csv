@@ -1,151 +1,151 @@
-sample_id,stage,sex,condition,replicate,batch,dataset,lane,run_accession
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_5d,mixed,unknown,2,B1,PRJEB32839,,ERR11178270
-SM_CERC_MIX_UNKN_R5_B1,cercariae,mixed,unknown,5,B1,PRJEB32839,,ERR11178275
-SM_EGGS_MIX_UNKN_R2_B1,eggs,mixed,unknown,2,B1,PRJEB32839,,ERR11178276
-SM_SCHI_MAL_UNKN_R3_B1,schistosomula_2d,male,unknown,3,B1,PRJEB32839,,ERR11178277
-SM_SPOR_MAL_UNKN_R1_B1,sporocyst_32d,male,unknown,1,B1,PRJEB32839,,ERR11178282
-SM_CERC_MAL_UNKN_R2_B1,cercariae,male,unknown,2,B1,PRJEB32839,,ERR11178284
-SM_EGGS_MIX_UNKN_R3_B1,eggs,mixed,unknown,3,B1,PRJEB32839,,ERR11178286
-SM_SCHI_MAL_UNKN_R4_B1,schistosomula_2d,male,unknown,4,B1,PRJEB32839,,ERR11178287
-SM_EGGS_MIX_UNKN_R4_B1,eggs,mixed,unknown,4,B1,PRJEB32839,,ERR11178295
-SM_CERC_MAL_UNKN_R4_B1,cercariae,male,unknown,4,B1,PRJEB32839,,ERR11178302
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_1d,mixed,unknown,3,B1,PRJEB32839,,ERR11178306
-SM_ADUL_MAL_UNKN_R1_B1,adult_26d,male,unknown,1,B1,PRJEB32839,,ERR11178307
-SM_SCHI_FEM_UNKN_R4_B1,schistosomula_2d,female,unknown,4,B1,PRJEB32839,,ERR11178312
-SM_MIRA_MIX_UNKN_R1_B1,miracidium,mixed,unknown,1,B1,PRJEB32839,,ERR11178313
-SM_ADUL_MAL_UNKN_R2_B1,adult_26d,male,unknown,2,B1,PRJEB32839,,ERR11178316
-SM_SPOR_FEM_UNKN_R2_B1,sporocyst_32d,female,unknown,2,B1,PRJEB32839,,ERR11178317
-SM_CERC_MIX_UNKN_R1_B1,cercariae,mixed,unknown,1,B1,PRJEB32839,,ERR11178320
-SM_SCHI_MIX_UNKN_R3_B1,schistosomula_2d,mixed,unknown,3,B1,PRJEB32839,,ERR11178323
-SM_SPOR_FEM_UNKN_R3_B1,sporocyst_32d,female,unknown,3,B1,PRJEB32839,,ERR11178325
-SM_CERC_MIX_UNKN_R2_B1,cercariae,mixed,unknown,2,B1,PRJEB32839,,ERR11178328
-SM_SPOR_FEM_UNKN_R4_B1,sporocyst_32d,female,unknown,4,B1,PRJEB32839,,ERR11178334
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_32d,mixed,unknown,5,B1,PRJEB32839,,ERR11178342
-SM_CERC_FEM_UNKN_R1_B1,cercariae,female,unknown,1,B1,PRJEB32839,,ERR11178343
-SM_CERC_FEM_UNKN_R3_B1,cercariae,female,unknown,3,B1,PRJEB32839,,ERR11178349
-SM_EGGS_MIX_UNKN_R1_B1,eggs,mixed,unknown,1,B1,PRJEB32839,,ERR11178356
-SM_MIRA_MIX_UNKN_R5_B1,miracidium,mixed,unknown,5,B1,PRJEB32839,,ERR11178368
-SM_SPOR_MAL_UNKN_R1_B1,sporocyst_32d,male,unknown,1,B1,PRJEB32839,,ERR11178372
-SM_ADUL_FEM_UNKN_R4_B1,adult_26d,female,unknown,4,B1,PRJEB32839,,ERR11178379
-SM_SCHI_MIX_UNKN_R5_B1,schistosomula_2d,mixed,unknown,5,B1,PRJEB32839,,ERR11178381
-SM_EGGS_MIX_UNKN_R4_B1,eggs,mixed,unknown,4,B1,PRJEB32839,,ERR11178385
-SM_SCHI_MAL_UNKN_R5_B1,schistosomula_2d,male,unknown,5,B1,PRJEB32839,,ERR11178386
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_1d,mixed,unknown,2,B1,PRJEB32839,,ERR11178387
-SM_ADUL_FEM_UNKN_R5_B1,adult_26d,female,unknown,5,B1,PRJEB32839,,ERR11178388
-SM_EGGS_MIX_UNKN_R5_B1,eggs,mixed,unknown,5,B1,PRJEB32839,,ERR11178394
-SM_SCHI_MIX_UNKN_R1_B1,schistosomula_2d,mixed,unknown,1,B1,PRJEB32839,,ERR11178395
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_1d,mixed,unknown,3,B1,PRJEB32839,,ERR11178396
-SM_SPOR_MAL_UNKN_R4_B1,sporocyst_32d,male,unknown,4,B1,PRJEB32839,,ERR11178400
-SM_SCHI_FEM_UNKN_R4_B1,schistosomula_2d,female,unknown,4,B1,PRJEB32839,,ERR11178402
-SM_MIRA_MIX_UNKN_R1_B1,miracidium,mixed,unknown,1,B1,PRJEB32839,,ERR11178403
-SM_ADUL_MAL_UNKN_R2_B1,adult_26d,male,unknown,2,B1,PRJEB32839,,ERR11178406
-SM_SPOR_FEM_UNKN_R2_B1,sporocyst_32d,female,unknown,2,B1,PRJEB32839,,ERR11178407
-SM_SPOR_FEM_UNKN_R3_B1,sporocyst_32d,female,unknown,3,B1,PRJEB32839,,ERR11178415
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_32d,mixed,unknown,3,B1,PRJEB32839,,ERR11178431
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_32d,mixed,unknown,4,B1,PRJEB32839,,ERR11178435
-SM_CERC_FEM_UNKN_R2_B1,cercariae,female,unknown,2,B1,PRJEB32839,,ERR11178437
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_1d,mixed,unknown,5,B1,PRJEB32839,,ERR11178264
-SM_EGGS_MIX_UNKN_R1_B1,eggs,mixed,unknown,1,B1,PRJEB32839,,ERR11178266
-SM_SCHI_MAL_UNKN_R2_B1,schistosomula_2d,male,unknown,2,B1,PRJEB32839,,ERR11178267
-SM_ADUL_MAL_UNKN_R5_B1,adult_26d,male,unknown,5,B1,PRJEB32839,,ERR11178271
-SM_SPOR_FEM_UNKN_R5_B1,sporocyst_32d,female,unknown,5,B1,PRJEB32839,,ERR11178272
-SM_MIRA_MIX_UNKN_R5_B1,miracidium,mixed,unknown,5,B1,PRJEB32839,,ERR11178278
-SM_ADUL_FEM_UNKN_R3_B1,adult_26d,female,unknown,3,B1,PRJEB32839,,ERR11178279
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_5d,mixed,unknown,3,B1,PRJEB32839,,ERR11178280
-SM_SCHI_MIX_UNKN_R4_B1,schistosomula_2d,mixed,unknown,4,B1,PRJEB32839,,ERR11178281
-SM_SCHI_FEM_UNKN_R1_B1,schistosomula_2d,female,unknown,1,B1,PRJEB32839,,ERR11178285
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_1d,mixed,unknown,1,B1,PRJEB32839,,ERR11178288
-SM_ADUL_FEM_UNKN_R4_B1,adult_26d,female,unknown,4,B1,PRJEB32839,,ERR11178289
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_5d,mixed,unknown,4,B1,PRJEB32839,,ERR11178290
-SM_CERC_MAL_UNKN_R3_B1,cercariae,male,unknown,3,B1,PRJEB32839,,ERR11178293
-SM_SCHI_FEM_UNKN_R2_B1,schistosomula_2d,female,unknown,2,B1,PRJEB32839,,ERR11178294
-SM_SCHI_MAL_UNKN_R5_B1,schistosomula_2d,male,unknown,5,B1,PRJEB32839,,ERR11178296
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_5d,mixed,unknown,5,B1,PRJEB32839,,ERR11178299
-SM_SPOR_MAL_UNKN_R3_B1,sporocyst_32d,male,unknown,3,B1,PRJEB32839,,ERR11178301
-SM_SCHI_FEM_UNKN_R3_B1,schistosomula_2d,female,unknown,3,B1,PRJEB32839,,ERR11178303
-SM_SCHI_MIX_UNKN_R1_B1,schistosomula_2d,mixed,unknown,1,B1,PRJEB32839,,ERR11178305
-SM_SPOR_MAL_UNKN_R4_B1,sporocyst_32d,male,unknown,4,B1,PRJEB32839,,ERR11178310
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_1d,mixed,unknown,4,B1,PRJEB32839,,ERR11178315
-SM_ADUL_MAL_UNKN_R3_B1,adult_26d,male,unknown,3,B1,PRJEB32839,,ERR11178324
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_5d,mixed,unknown,1,B1,PRJEB32839,,ERR11178332
-SM_ADUL_MAL_UNKN_R4_B1,adult_26d,male,unknown,4,B1,PRJEB32839,,ERR11178333
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_32d,mixed,unknown,4,B1,PRJEB32839,,ERR11178345
-SM_CERC_FEM_UNKN_R5_B1,cercariae,female,unknown,5,B1,PRJEB32839,,ERR11178353
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_1d,mixed,unknown,5,B1,PRJEB32839,,ERR11178354
-SM_CERC_MIX_UNKN_R4_B1,cercariae,mixed,unknown,4,B1,PRJEB32839,,ERR11178355
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_5d,mixed,unknown,2,B1,PRJEB32839,,ERR11178360
-SM_ADUL_MAL_UNKN_R5_B1,adult_26d,male,unknown,5,B1,PRJEB32839,,ERR11178361
-SM_SPOR_FEM_UNKN_R5_B1,sporocyst_32d,female,unknown,5,B1,PRJEB32839,,ERR11178362
-SM_CERC_MIX_UNKN_R5_B1,cercariae,mixed,unknown,5,B1,PRJEB32839,,ERR11178365
-SM_EGGS_MIX_UNKN_R2_B1,eggs,mixed,unknown,2,B1,PRJEB32839,,ERR11178366
-SM_SCHI_MAL_UNKN_R3_B1,schistosomula_2d,male,unknown,3,B1,PRJEB32839,,ERR11178367
-SM_ADUL_FEM_UNKN_R3_B1,adult_26d,female,unknown,3,B1,PRJEB32839,,ERR11178369
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_5d,mixed,unknown,3,B1,PRJEB32839,,ERR11178370
-SM_SCHI_MIX_UNKN_R4_B1,schistosomula_2d,mixed,unknown,4,B1,PRJEB32839,,ERR11178371
-SM_CERC_MAL_UNKN_R2_B1,cercariae,male,unknown,2,B1,PRJEB32839,,ERR11178374
-SM_EGGS_MIX_UNKN_R3_B1,eggs,mixed,unknown,3,B1,PRJEB32839,,ERR11178376
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_1d,mixed,unknown,1,B1,PRJEB32839,,ERR11178378
-SM_SPOR_MAL_UNKN_R2_B1,sporocyst_32d,male,unknown,2,B1,PRJEB32839,,ERR11178382
-SM_SCHI_FEM_UNKN_R2_B1,schistosomula_2d,female,unknown,2,B1,PRJEB32839,,ERR11178384
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_5d,mixed,unknown,5,B1,PRJEB32839,,ERR11178389
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_1d,mixed,unknown,4,B1,PRJEB32839,,ERR11178405
-SM_SPOR_MAL_UNKN_R5_B1,sporocyst_32d,male,unknown,5,B1,PRJEB32839,,ERR11178409
-SM_CERC_MIX_UNKN_R1_B1,cercariae,mixed,unknown,1,B1,PRJEB32839,,ERR11178410
-SM_SCHI_MIX_UNKN_R3_B1,schistosomula_2d,mixed,unknown,3,B1,PRJEB32839,,ERR11178413
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_32d,mixed,unknown,1,B1,PRJEB32839,,ERR11178417
-SM_CERC_MIX_UNKN_R2_B1,cercariae,mixed,unknown,2,B1,PRJEB32839,,ERR11178418
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_5d,mixed,unknown,1,B1,PRJEB32839,,ERR11178422
-SM_SPOR_FEM_UNKN_R4_B1,sporocyst_32d,female,unknown,4,B1,PRJEB32839,,ERR11178424
-SM_CERC_MIX_UNKN_R3_B1,cercariae,mixed,unknown,3,B1,PRJEB32839,,ERR11178427
-SM_SPOR_MIX_UNKN_R5_B1,sporocyst_32d,mixed,unknown,5,B1,PRJEB32839,,ERR11178432
-SM_CERC_FEM_UNKN_R1_B1,cercariae,female,unknown,1,B1,PRJEB32839,,ERR11178433
-SM_CERC_FEM_UNKN_R3_B1,cercariae,female,unknown,3,B1,PRJEB32839,,ERR11178439
-SM_CERC_FEM_UNKN_R4_B1,cercariae,female,unknown,4,B1,PRJEB32839,,ERR11178441
-SM_CERC_MIX_UNKN_R4_B1,cercariae,mixed,unknown,4,B1,PRJEB32839,,ERR11178265
-SM_MIRA_MIX_UNKN_R4_B1,miracidium,mixed,unknown,4,B1,PRJEB32839,,ERR11178268
-SM_ADUL_FEM_UNKN_R2_B1,adult_26d,female,unknown,2,B1,PRJEB32839,,ERR11178269
-SM_CERC_MAL_UNKN_R1_B1,cercariae,male,unknown,1,B1,PRJEB32839,,ERR11178274
-SM_SCHI_MIX_UNKN_R5_B1,schistosomula_2d,mixed,unknown,5,B1,PRJEB32839,,ERR11178291
-SM_SPOR_MAL_UNKN_R2_B1,sporocyst_32d,male,unknown,2,B1,PRJEB32839,,ERR11178292
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_1d,mixed,unknown,2,B1,PRJEB32839,,ERR11178297
-SM_ADUL_FEM_UNKN_R5_B1,adult_26d,female,unknown,5,B1,PRJEB32839,,ERR11178298
-SM_EGGS_MIX_UNKN_R5_B1,eggs,mixed,unknown,5,B1,PRJEB32839,,ERR11178304
-SM_SPOR_FEM_UNKN_R1_B1,sporocyst_32d,female,unknown,1,B1,PRJEB32839,,ERR11178308
-SM_CERC_MAL_UNKN_R5_B1,cercariae,male,unknown,5,B1,PRJEB32839,,ERR11178311
-SM_SCHI_MIX_UNKN_R2_B1,schistosomula_2d,mixed,unknown,2,B1,PRJEB32839,,ERR11178314
-SM_SPOR_MAL_UNKN_R5_B1,sporocyst_32d,male,unknown,5,B1,PRJEB32839,,ERR11178319
-SM_SCHI_FEM_UNKN_R5_B1,schistosomula_2d,female,unknown,5,B1,PRJEB32839,,ERR11178321
-SM_MIRA_MIX_UNKN_R2_B1,miracidium,mixed,unknown,2,B1,PRJEB32839,,ERR11178322
-SM_SPOR_MIX_UNKN_R1_B1,sporocyst_32d,mixed,unknown,1,B1,PRJEB32839,,ERR11178327
-SM_SCHI_MAL_UNKN_R1_B1,schistosomula_2d,male,unknown,1,B1,PRJEB32839,,ERR11178329
-SM_MIRA_MIX_UNKN_R3_B1,miracidium,mixed,unknown,3,B1,PRJEB32839,,ERR11178330
-SM_ADUL_FEM_UNKN_R1_B1,adult_26d,female,unknown,1,B1,PRJEB32839,,ERR11178331
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_32d,mixed,unknown,2,B1,PRJEB32839,,ERR11178336
-SM_CERC_MIX_UNKN_R3_B1,cercariae,mixed,unknown,3,B1,PRJEB32839,,ERR11178337
-SM_SPOR_MIX_UNKN_R3_B1,sporocyst_32d,mixed,unknown,3,B1,PRJEB32839,,ERR11178341
-SM_CERC_FEM_UNKN_R2_B1,cercariae,female,unknown,2,B1,PRJEB32839,,ERR11178347
-SM_CERC_FEM_UNKN_R4_B1,cercariae,female,unknown,4,B1,PRJEB32839,,ERR11178351
-SM_SCHI_MAL_UNKN_R2_B1,schistosomula_2d,male,unknown,2,B1,PRJEB32839,,ERR11178357
-SM_MIRA_MIX_UNKN_R4_B1,miracidium,mixed,unknown,4,B1,PRJEB32839,,ERR11178358
-SM_ADUL_FEM_UNKN_R2_B1,adult_26d,female,unknown,2,B1,PRJEB32839,,ERR11178359
-SM_CERC_MAL_UNKN_R1_B1,cercariae,male,unknown,1,B1,PRJEB32839,,ERR11178364
-SM_SCHI_FEM_UNKN_R1_B1,schistosomula_2d,female,unknown,1,B1,PRJEB32839,,ERR11178375
-SM_SCHI_MAL_UNKN_R4_B1,schistosomula_2d,male,unknown,4,B1,PRJEB32839,,ERR11178377
-SM_SPOR_MIX_UNKN_R4_B1,sporocyst_5d,mixed,unknown,4,B1,PRJEB32839,,ERR11178380
-SM_CERC_MAL_UNKN_R3_B1,cercariae,male,unknown,3,B1,PRJEB32839,,ERR11178383
-SM_SPOR_MAL_UNKN_R3_B1,sporocyst_32d,male,unknown,3,B1,PRJEB32839,,ERR11178391
-SM_CERC_MAL_UNKN_R4_B1,cercariae,male,unknown,4,B1,PRJEB32839,,ERR11178392
-SM_SCHI_FEM_UNKN_R3_B1,schistosomula_2d,female,unknown,3,B1,PRJEB32839,,ERR11178393
-SM_ADUL_MAL_UNKN_R1_B1,adult_26d,male,unknown,1,B1,PRJEB32839,,ERR11178397
-SM_SPOR_FEM_UNKN_R1_B1,sporocyst_32d,female,unknown,1,B1,PRJEB32839,,ERR11178398
-SM_CERC_MAL_UNKN_R5_B1,cercariae,male,unknown,5,B1,PRJEB32839,,ERR11178401
-SM_SCHI_MIX_UNKN_R2_B1,schistosomula_2d,mixed,unknown,2,B1,PRJEB32839,,ERR11178404
-SM_SCHI_FEM_UNKN_R5_B1,schistosomula_2d,female,unknown,5,B1,PRJEB32839,,ERR11178411
-SM_MIRA_MIX_UNKN_R2_B1,miracidium,mixed,unknown,2,B1,PRJEB32839,,ERR11178412
-SM_ADUL_MAL_UNKN_R3_B1,adult_26d,male,unknown,3,B1,PRJEB32839,,ERR11178414
-SM_SCHI_MAL_UNKN_R1_B1,schistosomula_2d,male,unknown,1,B1,PRJEB32839,,ERR11178419
-SM_MIRA_MIX_UNKN_R3_B1,miracidium,mixed,unknown,3,B1,PRJEB32839,,ERR11178420
-SM_ADUL_FEM_UNKN_R1_B1,adult_26d,female,unknown,1,B1,PRJEB32839,,ERR11178421
-SM_ADUL_MAL_UNKN_R4_B1,adult_26d,male,unknown,4,B1,PRJEB32839,,ERR11178423
-SM_SPOR_MIX_UNKN_R2_B1,sporocyst_32d,mixed,unknown,2,B1,PRJEB32839,,ERR11178426
-SM_CERC_FEM_UNKN_R5_B1,cercariae,female,unknown,5,B1,PRJEB32839,,ERR11178443
+sample_id,file_prefix,raw_sample_id,stage,tissue,sex,condition,infection_mode,biological_location,replicate,source_sample_id,batch,dataset,lane,run_accession,study_accession
+SM_SP05_MIX_UNKN_R2_B1,SM_SP05_MIX_UNKN_R2_B1,X_5d_Sporocysts_R2,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L1,ERR11178270,PRJEB32839
+SM_CERC_MIX_UNKN_R5_B1,SM_CERC_MIX_UNKN_R5_B1,X_Cercariae_R5,cercariae,whole_organism,mixed,unknown,,"Free-living, water",5,,B1,PRJEB32839,L1,ERR11178275,PRJEB32839
+SM_EGGS_MIX_UNKN_R2_B1,SM_EGGS_MIX_UNKN_R2_B1,X_Eggs_R2,eggs,whole_organism,mixed,unknown,,Intramammalian,2,,B1,PRJEB32839,L1,ERR11178276,PRJEB32839
+SM_SCH2_MAL_UNKN_R3_B1,SM_SCH2_MAL_UNKN_R3_B1,M_2d_Somules_R3,schistosomula_2d,whole_organism,male,unknown,,in vitro,3,,B1,PRJEB32839,L1,ERR11178277,PRJEB32839
+SM_SP32_MAL_UNKN_R1_B1,SM_SP32_MAL_UNKN_R1_B1,M_32d_Sporocysts_R1,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,1,,B1,PRJEB32839,L1,ERR11178282,PRJEB32839
+SM_CERC_MAL_UNKN_R2_B1,SM_CERC_MAL_UNKN_R2_B1,M_Cercariae_R2,cercariae,whole_organism,male,unknown,,"Free-living, water",2,,B1,PRJEB32839,L1,ERR11178284,PRJEB32839
+SM_EGGS_MIX_UNKN_R3_B1,SM_EGGS_MIX_UNKN_R3_B1,X_Eggs_R3,eggs,whole_organism,mixed,unknown,,Intramammalian,3,,B1,PRJEB32839,L1,ERR11178286,PRJEB32839
+SM_SCH2_MAL_UNKN_R4_B1,SM_SCH2_MAL_UNKN_R4_B1,M_2d_Somules_R4,schistosomula_2d,whole_organism,male,unknown,,in vitro,4,,B1,PRJEB32839,L1,ERR11178287,PRJEB32839
+SM_EGGS_MIX_UNKN_R4_B1,SM_EGGS_MIX_UNKN_R4_B1,X_Eggs_R4,eggs,whole_organism,mixed,unknown,,Intramammalian,4,,B1,PRJEB32839,L1,ERR11178295,PRJEB32839
+SM_CERC_MAL_UNKN_R4_B1,SM_CERC_MAL_UNKN_R4_B1,M_Cercariae_R4,cercariae,whole_organism,male,unknown,,"Free-living, water",4,,B1,PRJEB32839,L1,ERR11178302,PRJEB32839
+SM_SP01_MIX_UNKN_R3_B1,SM_SP01_MIX_UNKN_R3_B1,X_1d_Sporocysts_R3,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L1,ERR11178306,PRJEB32839
+SM_AD26_MAL_UNKN_R1_B1,SM_AD26_MAL_UNKN_R1_B1,M_26d_Juveniles_R1,adult_26d,whole_organism,male,unknown,,Intramammalian,1,,B1,PRJEB32839,L1,ERR11178307,PRJEB32839
+SM_SCH2_FEM_UNKN_R4_B1,SM_SCH2_FEM_UNKN_R4_B1,F_2d_Somules_R4,schistosomula_2d,whole_organism,female,unknown,,in vitro,4,,B1,PRJEB32839,L1,ERR11178312,PRJEB32839
+SM_MIRA_MIX_UNKN_R1_B1,SM_MIRA_MIX_UNKN_R1_B1,X_Miracidia_R1,miracidium,whole_organism,mixed,unknown,,"Free-living, water",1,,B1,PRJEB32839,L1,ERR11178313,PRJEB32839
+SM_AD26_MAL_UNKN_R2_B1,SM_AD26_MAL_UNKN_R2_B1,M_26d_Juveniles_R2,adult_26d,whole_organism,male,unknown,,Intramammalian,2,,B1,PRJEB32839,L1,ERR11178316,PRJEB32839
+SM_SP32_FEM_UNKN_R2_B1,SM_SP32_FEM_UNKN_R2_B1,F_32d_Sporocysts_R2,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,2,,B1,PRJEB32839,L1,ERR11178317,PRJEB32839
+SM_CERC_MIX_UNKN_R1_B1,SM_CERC_MIX_UNKN_R1_B1,X_Cercariae_R1,cercariae,whole_organism,mixed,unknown,,"Free-living, water",1,,B1,PRJEB32839,L1,ERR11178320,PRJEB32839
+SM_SCH2_MIX_UNKN_R3_B1,SM_SCH2_MIX_UNKN_R3_B1,X_2d_Somules_R3,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L1,ERR11178323,PRJEB32839
+SM_SP32_FEM_UNKN_R3_B1,SM_SP32_FEM_UNKN_R3_B1,F_32d_Sporocysts_R3,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,3,,B1,PRJEB32839,L1,ERR11178325,PRJEB32839
+SM_CERC_MIX_UNKN_R2_B1,SM_CERC_MIX_UNKN_R2_B1,X_Cercariae_R2,cercariae,whole_organism,mixed,unknown,,"Free-living, water",2,,B1,PRJEB32839,L1,ERR11178328,PRJEB32839
+SM_SP32_FEM_UNKN_R4_B1,SM_SP32_FEM_UNKN_R4_B1,F_32d_Sporocysts_R4,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,4,,B1,PRJEB32839,L1,ERR11178334,PRJEB32839
+SM_SP32_MIX_UNKN_R5_B1,SM_SP32_MIX_UNKN_R5_B1,X_32d_Sporocysts_R5,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,5,,B1,PRJEB32839,L1,ERR11178342,PRJEB32839
+SM_CERC_FEM_UNKN_R1_B1,SM_CERC_FEM_UNKN_R1_B1,F_Cercariae_R1,cercariae,whole_organism,female,unknown,,"Free-living, water",1,,B1,PRJEB32839,L1,ERR11178343,PRJEB32839
+SM_CERC_FEM_UNKN_R3_B1,SM_CERC_FEM_UNKN_R3_B1,F_Cercariae_R3,cercariae,whole_organism,female,unknown,,"Free-living, water",3,,B1,PRJEB32839,L1,ERR11178349,PRJEB32839
+SM_EGGS_MIX_UNKN_R1_B1,SM_EGGS_MIX_UNKN_R1_B1,X_Eggs_R1,eggs,whole_organism,mixed,unknown,,Intramammalian,1,,B1,PRJEB32839,L2,ERR11178356,PRJEB32839
+SM_MIRA_MIX_UNKN_R5_B1,SM_MIRA_MIX_UNKN_R5_B1,X_Miracidia_R5,miracidium,whole_organism,mixed,unknown,,"Free-living, water",5,,B1,PRJEB32839,L2,ERR11178368,PRJEB32839
+SM_SP32_MAL_UNKN_R1_B1,SM_SP32_MAL_UNKN_R1_B1,M_32d_Sporocysts_R1,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,1,,B1,PRJEB32839,L2,ERR11178372,PRJEB32839
+SM_AD26_FEM_UNKN_R4_B1,SM_AD26_FEM_UNKN_R4_B1,F_26d_Juveniles_R4,adult_26d,whole_organism,female,unknown,,Intramammalian,4,,B1,PRJEB32839,L2,ERR11178379,PRJEB32839
+SM_SCH2_MIX_UNKN_R5_B1,SM_SCH2_MIX_UNKN_R5_B1,X_2d_Somules_R5,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L2,ERR11178381,PRJEB32839
+SM_EGGS_MIX_UNKN_R4_B1,SM_EGGS_MIX_UNKN_R4_B1,X_Eggs_R4,eggs,whole_organism,mixed,unknown,,Intramammalian,4,,B1,PRJEB32839,L2,ERR11178385,PRJEB32839
+SM_SCH2_MAL_UNKN_R5_B1,SM_SCH2_MAL_UNKN_R5_B1,M_2d_Somules_R5,schistosomula_2d,whole_organism,male,unknown,,in vitro,5,,B1,PRJEB32839,L2,ERR11178386,PRJEB32839
+SM_SP01_MIX_UNKN_R2_B1,SM_SP01_MIX_UNKN_R2_B1,X_1d_Sporocysts_R2,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L2,ERR11178387,PRJEB32839
+SM_AD26_FEM_UNKN_R5_B1,SM_AD26_FEM_UNKN_R5_B1,F_26d_Juveniles_R5,adult_26d,whole_organism,female,unknown,,Intramammalian,5,,B1,PRJEB32839,L2,ERR11178388,PRJEB32839
+SM_EGGS_MIX_UNKN_R5_B1,SM_EGGS_MIX_UNKN_R5_B1,X_Eggs_R5,eggs,whole_organism,mixed,unknown,,Intramammalian,5,,B1,PRJEB32839,L2,ERR11178394,PRJEB32839
+SM_SCH2_MIX_UNKN_R1_B1,SM_SCH2_MIX_UNKN_R1_B1,X_2d_Somules_R1,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L2,ERR11178395,PRJEB32839
+SM_SP01_MIX_UNKN_R3_B1,SM_SP01_MIX_UNKN_R3_B1,X_1d_Sporocysts_R3,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L2,ERR11178396,PRJEB32839
+SM_SP32_MAL_UNKN_R4_B1,SM_SP32_MAL_UNKN_R4_B1,M_32d_Sporocysts_R4,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,4,,B1,PRJEB32839,L2,ERR11178400,PRJEB32839
+SM_SCH2_FEM_UNKN_R4_B1,SM_SCH2_FEM_UNKN_R4_B1,F_2d_Somules_R4,schistosomula_2d,whole_organism,female,unknown,,in vitro,4,,B1,PRJEB32839,L2,ERR11178402,PRJEB32839
+SM_MIRA_MIX_UNKN_R1_B1,SM_MIRA_MIX_UNKN_R1_B1,X_Miracidia_R1,miracidium,whole_organism,mixed,unknown,,"Free-living, water",1,,B1,PRJEB32839,L2,ERR11178403,PRJEB32839
+SM_AD26_MAL_UNKN_R2_B1,SM_AD26_MAL_UNKN_R2_B1,M_26d_Juveniles_R2,adult_26d,whole_organism,male,unknown,,Intramammalian,2,,B1,PRJEB32839,L2,ERR11178406,PRJEB32839
+SM_SP32_FEM_UNKN_R2_B1,SM_SP32_FEM_UNKN_R2_B1,F_32d_Sporocysts_R2,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,2,,B1,PRJEB32839,L2,ERR11178407,PRJEB32839
+SM_SP32_FEM_UNKN_R3_B1,SM_SP32_FEM_UNKN_R3_B1,F_32d_Sporocysts_R3,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,3,,B1,PRJEB32839,L2,ERR11178415,PRJEB32839
+SM_SP32_MIX_UNKN_R3_B1,SM_SP32_MIX_UNKN_R3_B1,X_32d_Sporocysts_R3,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,3,,B1,PRJEB32839,L2,ERR11178431,PRJEB32839
+SM_SP32_MIX_UNKN_R4_B1,SM_SP32_MIX_UNKN_R4_B1,X_32d_Sporocysts_R4,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,4,,B1,PRJEB32839,L2,ERR11178435,PRJEB32839
+SM_CERC_FEM_UNKN_R2_B1,SM_CERC_FEM_UNKN_R2_B1,F_Cercariae_R2,cercariae,whole_organism,female,unknown,,"Free-living, water",2,,B1,PRJEB32839,L2,ERR11178437,PRJEB32839
+SM_SP01_MIX_UNKN_R5_B1,SM_SP01_MIX_UNKN_R5_B1,X_1d_Sporocysts_R5,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L1,ERR11178264,PRJEB32839
+SM_EGGS_MIX_UNKN_R1_B1,SM_EGGS_MIX_UNKN_R1_B1,X_Eggs_R1,eggs,whole_organism,mixed,unknown,,Intramammalian,1,,B1,PRJEB32839,L1,ERR11178266,PRJEB32839
+SM_SCH2_MAL_UNKN_R2_B1,SM_SCH2_MAL_UNKN_R2_B1,M_2d_Somules_R2,schistosomula_2d,whole_organism,male,unknown,,in vitro,2,,B1,PRJEB32839,L1,ERR11178267,PRJEB32839
+SM_AD26_MAL_UNKN_R5_B1,SM_AD26_MAL_UNKN_R5_B1,M_26d_Juveniles_R5,adult_26d,whole_organism,male,unknown,,Intramammalian,5,,B1,PRJEB32839,L1,ERR11178271,PRJEB32839
+SM_SP32_FEM_UNKN_R5_B1,SM_SP32_FEM_UNKN_R5_B1,F_32d_Sporocysts_R5,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,5,,B1,PRJEB32839,L1,ERR11178272,PRJEB32839
+SM_MIRA_MIX_UNKN_R5_B1,SM_MIRA_MIX_UNKN_R5_B1,X_Miracidia_R5,miracidium,whole_organism,mixed,unknown,,"Free-living, water",5,,B1,PRJEB32839,L1,ERR11178278,PRJEB32839
+SM_AD26_FEM_UNKN_R3_B1,SM_AD26_FEM_UNKN_R3_B1,F_26d_Juveniles_R3,adult_26d,whole_organism,female,unknown,,Intramammalian,3,,B1,PRJEB32839,L1,ERR11178279,PRJEB32839
+SM_SP05_MIX_UNKN_R3_B1,SM_SP05_MIX_UNKN_R3_B1,X_5d_Sporocysts_R3,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L1,ERR11178280,PRJEB32839
+SM_SCH2_MIX_UNKN_R4_B1,SM_SCH2_MIX_UNKN_R4_B1,X_2d_Somules_R4,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L1,ERR11178281,PRJEB32839
+SM_SCH2_FEM_UNKN_R1_B1,SM_SCH2_FEM_UNKN_R1_B1,F_2d_Somules_R1,schistosomula_2d,whole_organism,female,unknown,,in vitro,1,,B1,PRJEB32839,L1,ERR11178285,PRJEB32839
+SM_SP01_MIX_UNKN_R1_B1,SM_SP01_MIX_UNKN_R1_B1,X_1d_Sporocysts_R1,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L1,ERR11178288,PRJEB32839
+SM_AD26_FEM_UNKN_R4_B1,SM_AD26_FEM_UNKN_R4_B1,F_26d_Juveniles_R4,adult_26d,whole_organism,female,unknown,,Intramammalian,4,,B1,PRJEB32839,L1,ERR11178289,PRJEB32839
+SM_SP05_MIX_UNKN_R4_B1,SM_SP05_MIX_UNKN_R4_B1,X_5d_Sporocysts_R4,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L1,ERR11178290,PRJEB32839
+SM_CERC_MAL_UNKN_R3_B1,SM_CERC_MAL_UNKN_R3_B1,M_Cercariae_R3,cercariae,whole_organism,male,unknown,,"Free-living, water",3,,B1,PRJEB32839,L1,ERR11178293,PRJEB32839
+SM_SCH2_FEM_UNKN_R2_B1,SM_SCH2_FEM_UNKN_R2_B1,F_2d_Somules_R2,schistosomula_2d,whole_organism,female,unknown,,in vitro,2,,B1,PRJEB32839,L1,ERR11178294,PRJEB32839
+SM_SCH2_MAL_UNKN_R5_B1,SM_SCH2_MAL_UNKN_R5_B1,M_2d_Somules_R5,schistosomula_2d,whole_organism,male,unknown,,in vitro,5,,B1,PRJEB32839,L1,ERR11178296,PRJEB32839
+SM_SP05_MIX_UNKN_R5_B1,SM_SP05_MIX_UNKN_R5_B1,X_5d_Sporocysts_R5,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L1,ERR11178299,PRJEB32839
+SM_SP32_MAL_UNKN_R3_B1,SM_SP32_MAL_UNKN_R3_B1,M_32d_Sporocysts_R3,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,3,,B1,PRJEB32839,L1,ERR11178301,PRJEB32839
+SM_SCH2_FEM_UNKN_R3_B1,SM_SCH2_FEM_UNKN_R3_B1,F_2d_Somules_R3,schistosomula_2d,whole_organism,female,unknown,,in vitro,3,,B1,PRJEB32839,L1,ERR11178303,PRJEB32839
+SM_SCH2_MIX_UNKN_R1_B1,SM_SCH2_MIX_UNKN_R1_B1,X_2d_Somules_R1,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L1,ERR11178305,PRJEB32839
+SM_SP32_MAL_UNKN_R4_B1,SM_SP32_MAL_UNKN_R4_B1,M_32d_Sporocysts_R4,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,4,,B1,PRJEB32839,L1,ERR11178310,PRJEB32839
+SM_SP01_MIX_UNKN_R4_B1,SM_SP01_MIX_UNKN_R4_B1,X_1d_Sporocysts_R4,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L1,ERR11178315,PRJEB32839
+SM_AD26_MAL_UNKN_R3_B1,SM_AD26_MAL_UNKN_R3_B1,M_26d_Juveniles_R3,adult_26d,whole_organism,male,unknown,,Intramammalian,3,,B1,PRJEB32839,L1,ERR11178324,PRJEB32839
+SM_SP05_MIX_UNKN_R1_B1,SM_SP05_MIX_UNKN_R1_B1,X_5d_Sporocysts_R1,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L1,ERR11178332,PRJEB32839
+SM_AD26_MAL_UNKN_R4_B1,SM_AD26_MAL_UNKN_R4_B1,M_26d_Juveniles_R4,adult_26d,whole_organism,male,unknown,,Intramammalian,4,,B1,PRJEB32839,L1,ERR11178333,PRJEB32839
+SM_SP32_MIX_UNKN_R4_B1,SM_SP32_MIX_UNKN_R4_B1,X_32d_Sporocysts_R4,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,4,,B1,PRJEB32839,L1,ERR11178345,PRJEB32839
+SM_CERC_FEM_UNKN_R5_B1,SM_CERC_FEM_UNKN_R5_B1,F_Cercariae_R5,cercariae,whole_organism,female,unknown,,"Free-living, water",5,,B1,PRJEB32839,L1,ERR11178353,PRJEB32839
+SM_SP01_MIX_UNKN_R5_B1,SM_SP01_MIX_UNKN_R5_B1,X_1d_Sporocysts_R5,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L2,ERR11178354,PRJEB32839
+SM_CERC_MIX_UNKN_R4_B1,SM_CERC_MIX_UNKN_R4_B1,X_Cercariae_R4,cercariae,whole_organism,mixed,unknown,,"Free-living, water",4,,B1,PRJEB32839,L2,ERR11178355,PRJEB32839
+SM_SP05_MIX_UNKN_R2_B1,SM_SP05_MIX_UNKN_R2_B1,X_5d_Sporocysts_R2,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L2,ERR11178360,PRJEB32839
+SM_AD26_MAL_UNKN_R5_B1,SM_AD26_MAL_UNKN_R5_B1,M_26d_Juveniles_R5,adult_26d,whole_organism,male,unknown,,Intramammalian,5,,B1,PRJEB32839,L2,ERR11178361,PRJEB32839
+SM_SP32_FEM_UNKN_R5_B1,SM_SP32_FEM_UNKN_R5_B1,F_32d_Sporocysts_R5,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,5,,B1,PRJEB32839,L2,ERR11178362,PRJEB32839
+SM_CERC_MIX_UNKN_R5_B1,SM_CERC_MIX_UNKN_R5_B1,X_Cercariae_R5,cercariae,whole_organism,mixed,unknown,,"Free-living, water",5,,B1,PRJEB32839,L2,ERR11178365,PRJEB32839
+SM_EGGS_MIX_UNKN_R2_B1,SM_EGGS_MIX_UNKN_R2_B1,X_Eggs_R2,eggs,whole_organism,mixed,unknown,,Intramammalian,2,,B1,PRJEB32839,L2,ERR11178366,PRJEB32839
+SM_SCH2_MAL_UNKN_R3_B1,SM_SCH2_MAL_UNKN_R3_B1,M_2d_Somules_R3,schistosomula_2d,whole_organism,male,unknown,,in vitro,3,,B1,PRJEB32839,L2,ERR11178367,PRJEB32839
+SM_AD26_FEM_UNKN_R3_B1,SM_AD26_FEM_UNKN_R3_B1,F_26d_Juveniles_R3,adult_26d,whole_organism,female,unknown,,Intramammalian,3,,B1,PRJEB32839,L2,ERR11178369,PRJEB32839
+SM_SP05_MIX_UNKN_R3_B1,SM_SP05_MIX_UNKN_R3_B1,X_5d_Sporocysts_R3,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L2,ERR11178370,PRJEB32839
+SM_SCH2_MIX_UNKN_R4_B1,SM_SCH2_MIX_UNKN_R4_B1,X_2d_Somules_R4,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L2,ERR11178371,PRJEB32839
+SM_CERC_MAL_UNKN_R2_B1,SM_CERC_MAL_UNKN_R2_B1,M_Cercariae_R2,cercariae,whole_organism,male,unknown,,"Free-living, water",2,,B1,PRJEB32839,L2,ERR11178374,PRJEB32839
+SM_EGGS_MIX_UNKN_R3_B1,SM_EGGS_MIX_UNKN_R3_B1,X_Eggs_R3,eggs,whole_organism,mixed,unknown,,Intramammalian,3,,B1,PRJEB32839,L2,ERR11178376,PRJEB32839
+SM_SP01_MIX_UNKN_R1_B1,SM_SP01_MIX_UNKN_R1_B1,X_1d_Sporocysts_R1,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L2,ERR11178378,PRJEB32839
+SM_SP32_MAL_UNKN_R2_B1,SM_SP32_MAL_UNKN_R2_B1,M_32d_Sporocysts_R2,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,2,,B1,PRJEB32839,L2,ERR11178382,PRJEB32839
+SM_SCH2_FEM_UNKN_R2_B1,SM_SCH2_FEM_UNKN_R2_B1,F_2d_Somules_R2,schistosomula_2d,whole_organism,female,unknown,,in vitro,2,,B1,PRJEB32839,L2,ERR11178384,PRJEB32839
+SM_SP05_MIX_UNKN_R5_B1,SM_SP05_MIX_UNKN_R5_B1,X_5d_Sporocysts_R5,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L2,ERR11178389,PRJEB32839
+SM_SP01_MIX_UNKN_R4_B1,SM_SP01_MIX_UNKN_R4_B1,X_1d_Sporocysts_R4,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L2,ERR11178405,PRJEB32839
+SM_SP32_MAL_UNKN_R5_B1,SM_SP32_MAL_UNKN_R5_B1,M_32d_Sporocysts_R5,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,5,,B1,PRJEB32839,L2,ERR11178409,PRJEB32839
+SM_CERC_MIX_UNKN_R1_B1,SM_CERC_MIX_UNKN_R1_B1,X_Cercariae_R1,cercariae,whole_organism,mixed,unknown,,"Free-living, water",1,,B1,PRJEB32839,L2,ERR11178410,PRJEB32839
+SM_SCH2_MIX_UNKN_R3_B1,SM_SCH2_MIX_UNKN_R3_B1,X_2d_Somules_R3,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,3,,B1,PRJEB32839,L2,ERR11178413,PRJEB32839
+SM_SP32_MIX_UNKN_R1_B1,SM_SP32_MIX_UNKN_R1_B1,X_32d_Sporocysts_R1,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,1,,B1,PRJEB32839,L2,ERR11178417,PRJEB32839
+SM_CERC_MIX_UNKN_R2_B1,SM_CERC_MIX_UNKN_R2_B1,X_Cercariae_R2,cercariae,whole_organism,mixed,unknown,,"Free-living, water",2,,B1,PRJEB32839,L2,ERR11178418,PRJEB32839
+SM_SP05_MIX_UNKN_R1_B1,SM_SP05_MIX_UNKN_R1_B1,X_5d_Sporocysts_R1,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,1,,B1,PRJEB32839,L2,ERR11178422,PRJEB32839
+SM_SP32_FEM_UNKN_R4_B1,SM_SP32_FEM_UNKN_R4_B1,F_32d_Sporocysts_R4,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,4,,B1,PRJEB32839,L2,ERR11178424,PRJEB32839
+SM_CERC_MIX_UNKN_R3_B1,SM_CERC_MIX_UNKN_R3_B1,X_Cercariae_R3,cercariae,whole_organism,mixed,unknown,,"Free-living, water",3,,B1,PRJEB32839,L2,ERR11178427,PRJEB32839
+SM_SP32_MIX_UNKN_R5_B1,SM_SP32_MIX_UNKN_R5_B1,X_32d_Sporocysts_R5,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,5,,B1,PRJEB32839,L2,ERR11178432,PRJEB32839
+SM_CERC_FEM_UNKN_R1_B1,SM_CERC_FEM_UNKN_R1_B1,F_Cercariae_R1,cercariae,whole_organism,female,unknown,,"Free-living, water",1,,B1,PRJEB32839,L2,ERR11178433,PRJEB32839
+SM_CERC_FEM_UNKN_R3_B1,SM_CERC_FEM_UNKN_R3_B1,F_Cercariae_R3,cercariae,whole_organism,female,unknown,,"Free-living, water",3,,B1,PRJEB32839,L2,ERR11178439,PRJEB32839
+SM_CERC_FEM_UNKN_R4_B1,SM_CERC_FEM_UNKN_R4_B1,F_Cercariae_R4,cercariae,whole_organism,female,unknown,,"Free-living, water",4,,B1,PRJEB32839,L2,ERR11178441,PRJEB32839
+SM_CERC_MIX_UNKN_R4_B1,SM_CERC_MIX_UNKN_R4_B1,X_Cercariae_R4,cercariae,whole_organism,mixed,unknown,,"Free-living, water",4,,B1,PRJEB32839,L1,ERR11178265,PRJEB32839
+SM_MIRA_MIX_UNKN_R4_B1,SM_MIRA_MIX_UNKN_R4_B1,X_Miracidia_R4,miracidium,whole_organism,mixed,unknown,,"Free-living, water",4,,B1,PRJEB32839,L1,ERR11178268,PRJEB32839
+SM_AD26_FEM_UNKN_R2_B1,SM_AD26_FEM_UNKN_R2_B1,F_26d_Juveniles_R2,adult_26d,whole_organism,female,unknown,,Intramammalian,2,,B1,PRJEB32839,L1,ERR11178269,PRJEB32839
+SM_CERC_MAL_UNKN_R1_B1,SM_CERC_MAL_UNKN_R1_B1,M_Cercariae_R1,cercariae,whole_organism,male,unknown,,"Free-living, water",1,,B1,PRJEB32839,L1,ERR11178274,PRJEB32839
+SM_SCH2_MIX_UNKN_R5_B1,SM_SCH2_MIX_UNKN_R5_B1,X_2d_Somules_R5,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,5,,B1,PRJEB32839,L1,ERR11178291,PRJEB32839
+SM_SP32_MAL_UNKN_R2_B1,SM_SP32_MAL_UNKN_R2_B1,M_32d_Sporocysts_R2,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,2,,B1,PRJEB32839,L1,ERR11178292,PRJEB32839
+SM_SP01_MIX_UNKN_R2_B1,SM_SP01_MIX_UNKN_R2_B1,X_1d_Sporocysts_R2,sporocyst_1d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L1,ERR11178297,PRJEB32839
+SM_AD26_FEM_UNKN_R5_B1,SM_AD26_FEM_UNKN_R5_B1,F_26d_Juveniles_R5,adult_26d,whole_organism,female,unknown,,Intramammalian,5,,B1,PRJEB32839,L1,ERR11178298,PRJEB32839
+SM_EGGS_MIX_UNKN_R5_B1,SM_EGGS_MIX_UNKN_R5_B1,X_Eggs_R5,eggs,whole_organism,mixed,unknown,,Intramammalian,5,,B1,PRJEB32839,L1,ERR11178304,PRJEB32839
+SM_SP32_FEM_UNKN_R1_B1,SM_SP32_FEM_UNKN_R1_B1,F_32d_Sporocysts_R1,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,1,,B1,PRJEB32839,L1,ERR11178308,PRJEB32839
+SM_CERC_MAL_UNKN_R5_B1,SM_CERC_MAL_UNKN_R5_B1,M_Cercariae_R5,cercariae,whole_organism,male,unknown,,"Free-living, water",5,,B1,PRJEB32839,L1,ERR11178311,PRJEB32839
+SM_SCH2_MIX_UNKN_R2_B1,SM_SCH2_MIX_UNKN_R2_B1,X_2d_Somules_R2,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L1,ERR11178314,PRJEB32839
+SM_SP32_MAL_UNKN_R5_B1,SM_SP32_MAL_UNKN_R5_B1,M_32d_Sporocysts_R5,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,5,,B1,PRJEB32839,L1,ERR11178319,PRJEB32839
+SM_SCH2_FEM_UNKN_R5_B1,SM_SCH2_FEM_UNKN_R5_B1,F_2d_Somules_R5,schistosomula_2d,whole_organism,female,unknown,,in vitro,5,,B1,PRJEB32839,L1,ERR11178321,PRJEB32839
+SM_MIRA_MIX_UNKN_R2_B1,SM_MIRA_MIX_UNKN_R2_B1,X_Miracidia_R2,miracidium,whole_organism,mixed,unknown,,"Free-living, water",2,,B1,PRJEB32839,L1,ERR11178322,PRJEB32839
+SM_SP32_MIX_UNKN_R1_B1,SM_SP32_MIX_UNKN_R1_B1,X_32d_Sporocysts_R1,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,1,,B1,PRJEB32839,L1,ERR11178327,PRJEB32839
+SM_SCH2_MAL_UNKN_R1_B1,SM_SCH2_MAL_UNKN_R1_B1,M_2d_Somules_R1,schistosomula_2d,whole_organism,male,unknown,,in vitro,1,,B1,PRJEB32839,L1,ERR11178329,PRJEB32839
+SM_MIRA_MIX_UNKN_R3_B1,SM_MIRA_MIX_UNKN_R3_B1,X_Miracidia_R3,miracidium,whole_organism,mixed,unknown,,"Free-living, water",3,,B1,PRJEB32839,L1,ERR11178330,PRJEB32839
+SM_AD26_FEM_UNKN_R1_B1,SM_AD26_FEM_UNKN_R1_B1,F_26d_Juveniles_R1,adult_26d,whole_organism,female,unknown,,Intramammalian,1,,B1,PRJEB32839,L1,ERR11178331,PRJEB32839
+SM_SP32_MIX_UNKN_R2_B1,SM_SP32_MIX_UNKN_R2_B1,X_32d_Sporocysts_R2,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,2,,B1,PRJEB32839,L1,ERR11178336,PRJEB32839
+SM_CERC_MIX_UNKN_R3_B1,SM_CERC_MIX_UNKN_R3_B1,X_Cercariae_R3,cercariae,whole_organism,mixed,unknown,,"Free-living, water",3,,B1,PRJEB32839,L1,ERR11178337,PRJEB32839
+SM_SP32_MIX_UNKN_R3_B1,SM_SP32_MIX_UNKN_R3_B1,X_32d_Sporocysts_R3,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,3,,B1,PRJEB32839,L1,ERR11178341,PRJEB32839
+SM_CERC_FEM_UNKN_R2_B1,SM_CERC_FEM_UNKN_R2_B1,F_Cercariae_R2,cercariae,whole_organism,female,unknown,,"Free-living, water",2,,B1,PRJEB32839,L1,ERR11178347,PRJEB32839
+SM_CERC_FEM_UNKN_R4_B1,SM_CERC_FEM_UNKN_R4_B1,F_Cercariae_R4,cercariae,whole_organism,female,unknown,,"Free-living, water",4,,B1,PRJEB32839,L1,ERR11178351,PRJEB32839
+SM_SCH2_MAL_UNKN_R2_B1,SM_SCH2_MAL_UNKN_R2_B1,M_2d_Somules_R2,schistosomula_2d,whole_organism,male,unknown,,in vitro,2,,B1,PRJEB32839,L2,ERR11178357,PRJEB32839
+SM_MIRA_MIX_UNKN_R4_B1,SM_MIRA_MIX_UNKN_R4_B1,X_Miracidia_R4,miracidium,whole_organism,mixed,unknown,,"Free-living, water",4,,B1,PRJEB32839,L2,ERR11178358,PRJEB32839
+SM_AD26_FEM_UNKN_R2_B1,SM_AD26_FEM_UNKN_R2_B1,F_26d_Juveniles_R2,adult_26d,whole_organism,female,unknown,,Intramammalian,2,,B1,PRJEB32839,L2,ERR11178359,PRJEB32839
+SM_CERC_MAL_UNKN_R1_B1,SM_CERC_MAL_UNKN_R1_B1,M_Cercariae_R1,cercariae,whole_organism,male,unknown,,"Free-living, water",1,,B1,PRJEB32839,L2,ERR11178364,PRJEB32839
+SM_SCH2_FEM_UNKN_R1_B1,SM_SCH2_FEM_UNKN_R1_B1,F_2d_Somules_R1,schistosomula_2d,whole_organism,female,unknown,,in vitro,1,,B1,PRJEB32839,L2,ERR11178375,PRJEB32839
+SM_SCH2_MAL_UNKN_R4_B1,SM_SCH2_MAL_UNKN_R4_B1,M_2d_Somules_R4,schistosomula_2d,whole_organism,male,unknown,,in vitro,4,,B1,PRJEB32839,L2,ERR11178377,PRJEB32839
+SM_SP05_MIX_UNKN_R4_B1,SM_SP05_MIX_UNKN_R4_B1,X_5d_Sporocysts_R4,sporocyst_5d,whole_organism,mixed,unknown,,in vitro,4,,B1,PRJEB32839,L2,ERR11178380,PRJEB32839
+SM_CERC_MAL_UNKN_R3_B1,SM_CERC_MAL_UNKN_R3_B1,M_Cercariae_R3,cercariae,whole_organism,male,unknown,,"Free-living, water",3,,B1,PRJEB32839,L2,ERR11178383,PRJEB32839
+SM_SP32_MAL_UNKN_R3_B1,SM_SP32_MAL_UNKN_R3_B1,M_32d_Sporocysts_R3,sporocyst_32d,whole_organism,male,unknown,,Intramolluscan,3,,B1,PRJEB32839,L2,ERR11178391,PRJEB32839
+SM_CERC_MAL_UNKN_R4_B1,SM_CERC_MAL_UNKN_R4_B1,M_Cercariae_R4,cercariae,whole_organism,male,unknown,,"Free-living, water",4,,B1,PRJEB32839,L2,ERR11178392,PRJEB32839
+SM_SCH2_FEM_UNKN_R3_B1,SM_SCH2_FEM_UNKN_R3_B1,F_2d_Somules_R3,schistosomula_2d,whole_organism,female,unknown,,in vitro,3,,B1,PRJEB32839,L2,ERR11178393,PRJEB32839
+SM_AD26_MAL_UNKN_R1_B1,SM_AD26_MAL_UNKN_R1_B1,M_26d_Juveniles_R1,adult_26d,whole_organism,male,unknown,,Intramammalian,1,,B1,PRJEB32839,L2,ERR11178397,PRJEB32839
+SM_SP32_FEM_UNKN_R1_B1,SM_SP32_FEM_UNKN_R1_B1,F_32d_Sporocysts_R1,sporocyst_32d,whole_organism,female,unknown,,Intramolluscan,1,,B1,PRJEB32839,L2,ERR11178398,PRJEB32839
+SM_CERC_MAL_UNKN_R5_B1,SM_CERC_MAL_UNKN_R5_B1,M_Cercariae_R5,cercariae,whole_organism,male,unknown,,"Free-living, water",5,,B1,PRJEB32839,L2,ERR11178401,PRJEB32839
+SM_SCH2_MIX_UNKN_R2_B1,SM_SCH2_MIX_UNKN_R2_B1,X_2d_Somules_R2,schistosomula_2d,whole_organism,mixed,unknown,,in vitro,2,,B1,PRJEB32839,L2,ERR11178404,PRJEB32839
+SM_SCH2_FEM_UNKN_R5_B1,SM_SCH2_FEM_UNKN_R5_B1,F_2d_Somules_R5,schistosomula_2d,whole_organism,female,unknown,,in vitro,5,,B1,PRJEB32839,L2,ERR11178411,PRJEB32839
+SM_MIRA_MIX_UNKN_R2_B1,SM_MIRA_MIX_UNKN_R2_B1,X_Miracidia_R2,miracidium,whole_organism,mixed,unknown,,"Free-living, water",2,,B1,PRJEB32839,L2,ERR11178412,PRJEB32839
+SM_AD26_MAL_UNKN_R3_B1,SM_AD26_MAL_UNKN_R3_B1,M_26d_Juveniles_R3,adult_26d,whole_organism,male,unknown,,Intramammalian,3,,B1,PRJEB32839,L2,ERR11178414,PRJEB32839
+SM_SCH2_MAL_UNKN_R1_B1,SM_SCH2_MAL_UNKN_R1_B1,M_2d_Somules_R1,schistosomula_2d,whole_organism,male,unknown,,in vitro,1,,B1,PRJEB32839,L2,ERR11178419,PRJEB32839
+SM_MIRA_MIX_UNKN_R3_B1,SM_MIRA_MIX_UNKN_R3_B1,X_Miracidia_R3,miracidium,whole_organism,mixed,unknown,,"Free-living, water",3,,B1,PRJEB32839,L2,ERR11178420,PRJEB32839
+SM_AD26_FEM_UNKN_R1_B1,SM_AD26_FEM_UNKN_R1_B1,F_26d_Juveniles_R1,adult_26d,whole_organism,female,unknown,,Intramammalian,1,,B1,PRJEB32839,L2,ERR11178421,PRJEB32839
+SM_AD26_MAL_UNKN_R4_B1,SM_AD26_MAL_UNKN_R4_B1,M_26d_Juveniles_R4,adult_26d,whole_organism,male,unknown,,Intramammalian,4,,B1,PRJEB32839,L2,ERR11178423,PRJEB32839
+SM_SP32_MIX_UNKN_R2_B1,SM_SP32_MIX_UNKN_R2_B1,X_32d_Sporocysts_R2,sporocyst_32d,whole_organism,mixed,unknown,,Intramolluscan,2,,B1,PRJEB32839,L2,ERR11178426,PRJEB32839
+SM_CERC_FEM_UNKN_R5_B1,SM_CERC_FEM_UNKN_R5_B1,F_Cercariae_R5,cercariae,whole_organism,female,unknown,,"Free-living, water",5,,B1,PRJEB32839,L2,ERR11178443,PRJEB32839
