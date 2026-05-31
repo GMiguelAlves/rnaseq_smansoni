@@ -152,6 +152,36 @@ uma mesma amostra biologica possui varios runs tecnicos:
 ERR506074_1.fastq.gz -> SM_ADUL_OVAR_FEM_MIXS_SC1878518_B2_ERR506074_R1.fastq.gz
 ```
 
+Para verificar e renomear os arquivos baixados no scratch:
+
+```bash
+# Checagem sem renomear
+python rename_fastqs_from_metadata.py \
+  --metadata ../025-parse/030-metadata_final/AllProjects_metadata_new.csv \
+  --project PRJEB14695 \
+  --scratch-root <FILES> \
+  --manifest PRJEB14695_rename_manifest.csv
+
+# Renomear de fato, somente depois que a checagem passar
+python rename_fastqs_from_metadata.py \
+  --metadata ../025-parse/030-metadata_final/AllProjects_metadata_new.csv \
+  --project PRJEB14695 \
+  --scratch-root <FILES> \
+  --manifest PRJEB14695_rename_manifest.csv \
+  --apply
+```
+
+O script espera os FASTQs em:
+
+```text
+--scratch-root
+```
+
+Ele aborta antes de renomear se faltarem arquivos esperados, se houver nomes
+novos duplicados, se algum destino ja existir, ou se existirem FASTQs extras no
+diretorio. Use `--allow-extra` apenas quando esses arquivos extras forem
+intencionais.
+
 Logs:
 
 ```bash
