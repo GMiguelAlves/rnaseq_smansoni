@@ -9,7 +9,7 @@ absolute paths for raw FASTQs, run-level trimmed FASTQs, and merged sample FASTQ
 from __future__ import annotations
 
 import argparse
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 import pandas as pd
 
@@ -19,9 +19,22 @@ def load_metadata(path: Path) -> pd.DataFrame:
     return pd.read_csv(path, sep=sep, dtype=str, keep_default_na=False)
 
 
-def first_existing(paths: list[Path]) -> Path:
+def as_pipeline_path(value: str | Path | None):
+    if value is None:
+        return None
+    text = str(value)
+    if text.startswith("/"):
+        return PurePosixPath(text)
+    return Path(text)
+
+
+def path_exists(path) -> bool:
+    return Path(str(path)).exists()
+
+
+def first_existing(paths: list) -> object:
     for path in paths:
-        if path.exists():
+        if path_exists(path):
             return path
     return paths[0]
 
@@ -29,10 +42,10 @@ def first_existing(paths: list[Path]) -> Path:
 def build_plan(
     metadata: pd.DataFrame,
     project: str,
-    scratch_root: Path,
-    raw_dir: Path | None,
-    trimmed_runs_dir: Path | None,
-    merged_dir: Path | None,
+    scratch_root,
+    raw_dir,
+    trimmed_runs_dir,
+    merged_dir,
 ) -> pd.DataFrame:
     required = {"dataset", "sample_id", "run_accession"}
     missing = sorted(required - set(metadata.columns))
@@ -87,7 +100,7 @@ def build_plan(
 def validate_plan(plan: pd.DataFrame, allow_missing: bool) -> None:
     missing = []
     for col in ["raw_r1", "raw_r2"]:
-        missing.extend(path for path in plan[col] if not Path(path).exists())
+        missing.extend(path for path in plan[col] if not path_exists(path))
 
     duplicated_outputs = []
     for col in ["trimmed_run_r1", "trimmed_run_r2"]:
@@ -115,12 +128,11 @@ def main() -> None:
     parser.add_argument("--project", required=True)
     parser.add_argument(
         "--scratch-root",
-        default=Path("/scratch/Schisto-epigenetics/gustavo"),
-        type=Path,
+        default="/scratch/Schisto-epigenetics/gustavo",
     )
-    parser.add_argument("--raw-dir", type=Path, default=None)
-    parser.add_argument("--trimmed-runs-dir", type=Path, default=None)
-    parser.add_argument("--merged-dir", type=Path, default=None)
+    parser.add_argument("--raw-dir", default=None)
+    parser.add_argument("--trimmed-runs-dir", default=None)
+    parser.add_argument("--merged-dir", default=None)
     parser.add_argument("--output", required=True, type=Path)
     parser.add_argument("--allow-missing", action="store_true")
     args = parser.parse_args()
@@ -129,10 +141,10 @@ def main() -> None:
     plan = build_plan(
         metadata=metadata,
         project=args.project,
-        scratch_root=args.scratch_root,
-        raw_dir=args.raw_dir,
-        trimmed_runs_dir=args.trimmed_runs_dir,
-        merged_dir=args.merged_dir,
+        scratch_root=as_pipeline_path(args.scratch_root),
+        raw_dir=as_pipeline_path(args.raw_dir),
+        trimmed_runs_dir=as_pipeline_path(args.trimmed_runs_dir),
+        merged_dir=as_pipeline_path(args.merged_dir),
     )
     validate_plan(plan, args.allow_missing)
 
