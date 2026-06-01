@@ -28,3 +28,4 @@ logs/
 /090-search-gene/results/
 /090-search-gene/inputs
 /030-qc-fastq/multiqc_report_*/
+configs/
