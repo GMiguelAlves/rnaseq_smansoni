@@ -1,0 +1,11 @@
+# Defina grupos de genes no formato:
+# Nome do grupo: gene1, gene2, gene3
+#
+# Exemplo:
+# Modificadores de histonas: Smp_210650, Smp_000000
+# Grupo 2: Smp_111111, Smp_222222
+
+Grupo HP1: Smp_179650, Smp_001500
+Writers: Smp_210650, Smp_078900, Smp_070170, Smp_138030, Smp_144180, Smp_161010, Smp_210660, Smp_160700, Smp_137060, Smp_055310, Smp_027300, Smp_062530, Smp_210650, Smp_140390, Smp_150850, Smp_043580, Smp_000700, Smp_124950, Smp_121610, Smp_149380, Smp_131300, Smp_165000, Smp_029240, Smp_211290, Smp_070340, Smp_171150, Smp_025550
+Readers: Smp_064830, Smp_081570, Smp_097090, Smp_150850, Smp_175680, Smp_027300, Smp_041760, Smp_079650, Smp_078280, Smp_130470, Smp_144550, Smp_149240, Smp_174840, Smp_179650, Smp_006250, Smp_074050, Smp_159100, Smp_041750, Smp_105690, Smp_125340, Smp_137060, Smp_154860, Smp_163470, Smp_170390
+Erasers: Smp_150560, Smp_160810, Smp_162940, Smp_161400, Smp_132170, Smp_147870, Smp_137240, Smp_196270, Smp_156290, Smp_019170, Smp_034000, Smp_128500, Smp_180990
